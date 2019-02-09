@@ -16,16 +16,16 @@
     - [Examples](#examples)
     - [Tutorials](#tutorials)
     - [Blog Posts](#blog-posts)
-- [Projects Using VuePress](#projects-using-vuepress)
-    - [Official Projects](#official-projects)
-    - [Open Source](#open-source)
-    - [Enterprise Usage](#enterprise-usage)
 - [Plugins](#plugins)
     - [Official Plugins](#official-plugins)
     - [Community Plugins](#official-plugins)
 - [Themes](#themes)
     - [Official Themes](#official-themes)
     - [Community Themes](#official-themes)
+- [Projects Using VuePress](#projects-using-vuepress)
+    - [Official Projects](#official-projects)
+    - [Open Source](#open-source)
+    - [Enterprise Usage](#enterprise-usage)
 
 # Resources
 
@@ -59,6 +59,35 @@
 
 > Coming soon...
 
+
+# Plugins
+
+### Official Plugins
+
+- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
+- [@vuepress/plugin-active-header-links](https://vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
+- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
+- [@vuepress/plugin-google-analytics](https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
+- [@vuepress/plugin-medium-zoom](https://vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
+
+### Community Plugins
+
+- [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
+- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) -  Rapid flowchart development plugin for VuePress
+- [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
+
+
+# Themes
+
+### Official Themes
+
+- [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
+
+### Community Themes
+
+- [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
+- [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
 
 # Projects Using VuePress
 
@@ -130,33 +159,3 @@
  - Ant Financial
  
  
-# Plugins
-
-### Official Plugins
-
-- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
-- [@vuepress/plugin-active-header-links](https://vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
-- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
-- [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
-- [@vuepress/plugin-google-analytics](https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
-- [@vuepress/plugin-medium-zoom](https://vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
-
-### Community Plugins
-
-- [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
-- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) -  Rapid flowchart development plugin for VuePress
-- [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
-
-
-# Themes
-
-### Official Themes
-
-- [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
-
-### Community Themes
-
-- [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
-- [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
-
-
