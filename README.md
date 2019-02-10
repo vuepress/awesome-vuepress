@@ -150,6 +150,7 @@
 - [typescript-book-chinese](https://jkchao.github.io/typescript-book-chinese) - TypeScript Deep Dive 中文版 
 - [vue-patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and helpful curated links. 
 - [v8n](https://imbrn.github.io/v8n/) - ☑️ JavaScript fluent validation library
+- [EasyHexo](https://easyhexo.com) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 
 
                                                  
