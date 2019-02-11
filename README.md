@@ -16,6 +16,7 @@
     - [Examples](#examples)
     - [Tutorials](#tutorials)
     - [Blog Posts](#blog-posts)
+- [Gallery](#gallery)    
 - [Plugins](#plugins)
     - [Official Plugins](#official-plugins)
     - [Community Plugins](#official-plugins)
@@ -59,6 +60,9 @@
 
 > Coming soon...
 
+# Gallery
+
+- [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
 
 # Plugins
 
