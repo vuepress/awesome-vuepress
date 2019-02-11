@@ -150,7 +150,7 @@
 - [typescript-book-chinese](https://jkchao.github.io/typescript-book-chinese) - TypeScript Deep Dive 中文版 
 - [vue-patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and helpful curated links. 
 - [v8n](https://imbrn.github.io/v8n/) - ☑️ JavaScript fluent validation library
-
+- [PicGo-Core](https://picgo.github.io/PicGo-Core-Doc/) - A tool for picture uploading. Both CLI & api supports.
 
                                                  
 ### Enterprise Usage
