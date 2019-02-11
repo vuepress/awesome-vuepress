@@ -151,6 +151,8 @@
 - [vue-patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and helpful curated links. 
 - [v8n](https://imbrn.github.io/v8n/) - ☑️ JavaScript fluent validation library
 - [PicGo-Core](https://picgo.github.io/PicGo-Core-Doc/) - A tool for picture uploading. Both CLI & api supports.
+- [EasyHexo](https://easyhexo.com) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
+- [d2-daily](https://daily.fairyever.com/) - D2 日报。
 
                                                  
 ### Enterprise Usage
