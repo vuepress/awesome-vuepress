@@ -88,6 +88,7 @@
 
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
+- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 Vuepress Theme - Meteorlxy
 - [vuepress-theme-macgs](https://github.com/EasyHexo/vuepress-theme-macgs) - :dizzy: A vuepress theme for [easyhexo.com](https://easyhexo.com)
 
 # Projects Using VuePress
