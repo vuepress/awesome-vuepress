@@ -68,12 +68,19 @@
 
 ### Official Plugins
 
-- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 - [@vuepress/plugin-active-header-links](https://vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
-- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
 - [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
 - [@vuepress/plugin-google-analytics](https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
+- [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
+- [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
 - [@vuepress/plugin-medium-zoom](https://vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
+- [@vuepress/plugin-notification](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-notification) - notification plugin
+- [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
+- [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pagination) - pagination plugin
+- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
+- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
 ### Community Plugins
 
@@ -85,6 +92,16 @@
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
 - [vuepress-plugin-demo-code](https://github.com/BuptStEve/vuepress-plugin-demo-code) - Display your demo and code at the same time with one source code.
 - [@silvanite/vuepress-plugin-markdown-classes](https://github.com/Silvanite/vuepress-plugin-markdown-classes) - Add unique class names to markdown generated html.
+- [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress
+- [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component
+- [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites
+- [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX
+- [vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) reading-time plugin to display how long a page takes to read
+- [vuepress-plugin-minimal-analytics](https://github.com/webmasterish/vuepress-plugin-minimal-analytics) - Minimal Google Analytics plugin for VuePress
+- [vuepress-plugin-autometa](https://github.com/webmasterish/vuepress-plugin-autometa) - Auto meta tags plugin for VuePress
+- [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
+- [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
+- [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
 
 # Themes
 
@@ -98,6 +115,8 @@
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
 - [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 Vuepress Theme - Meteorlxy
 - [vuepress-theme-macgs](https://github.com/EasyHexo/vuepress-theme-macgs) - :dizzy: A vuepress theme for [easyhexo.com](https://easyhexo.com)
+- [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering
+- [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple) - ✏️ Very Simple Blog Theme for VuePress
 
 # Projects Using VuePress
 
@@ -163,6 +182,10 @@
 - [PicGo-Core](https://picgo.github.io/PicGo-Core-Doc/) - A tool for picture uploading. Both CLI & api supports.
 - [EasyHexo](https://easyhexo.com) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 - [d2-daily](https://daily.fairyever.com/) - D2 日报。
+- [SorryPress](https://github.com/fritx/SorryPress) - Vuepress version of [_xtyxtyx/sorry_](https://github.com/xtyxtyx/sorry)
+- [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
+- [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
+- [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
 
 
 ### Enterprise Usage
