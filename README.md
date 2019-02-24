@@ -54,7 +54,7 @@
 
 ### Examples
 
-> Coming soon...
+- [davidangel.net](https://davidangel.net/) - An example of a site running VuePress on Netlify.
 
 ### Blog Posts
 
