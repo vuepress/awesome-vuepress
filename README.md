@@ -45,7 +45,7 @@
 
 ### Tutorials
 
-- [20190518 VueNYC - Introduction to VuePress - Evan You](https://www.youtube.com/watch?v=lIv1ItUzktc)
+- [20180518 VueNYC - Introduction to VuePress - Evan You](https://www.youtube.com/watch?v=lIv1ItUzktc)
 - [20190107 Twitch Session: Trying to Write a VuePress Plugin](https://www.youtube.com/watch?v=JbOd6giUiWU)
 
 ### Official Examples
