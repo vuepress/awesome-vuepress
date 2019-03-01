@@ -104,6 +104,7 @@
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
 - [vuepress-plugin-mathjax](https://github.com/Shigma/vuepress-plugin-mathjax) - A VuePress plugin which supports TeX syntax in markdown files
 - [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
+- [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols) in markdown files for better readability.
 
 # Themes
 
