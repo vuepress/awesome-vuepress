@@ -68,19 +68,19 @@
 
 ### Official Plugins
 
-- [@vuepress/plugin-active-header-links](https://vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
+- [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
-- [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
-- [@vuepress/plugin-google-analytics](https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
+- [@vuepress/plugin-blog](https://v1.vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
+- [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
 - [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
-- [@vuepress/plugin-medium-zoom](https://vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
+- [@vuepress/plugin-medium-zoom](https://v1.vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
 - [@vuepress/plugin-notification](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-notification) - notification plugin
 - [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
 - [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pagination) - pagination plugin
-- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
-- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
+- [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
 ### Community Plugins
 
