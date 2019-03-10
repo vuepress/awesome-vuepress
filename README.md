@@ -12,11 +12,11 @@
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
+    - [Tutorials](#tutorials)
     - [Official Examples](#official-examples)
     - [Examples](#examples)
-    - [Tutorials](#tutorials)
     - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)    
+- [Gallery](#gallery)
 - [Plugins](#plugins)
     - [Official Plugins](#official-plugins)
     - [Community Plugins](#community-plugins)
@@ -27,6 +27,7 @@
     - [Official Projects](#official-projects)
     - [Open Source](#open-source)
     - [Enterprise Usage](#enterprise-usage)
+  - [License](#license)
 
 # Resources
 
