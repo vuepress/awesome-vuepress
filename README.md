@@ -108,6 +108,7 @@
 - [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols) in markdown files for better readability.
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
+- [vuepress-plugin-serve](https://github.com/Shigma/vuepress-plugin-serve) - A VuePress plugin that serves generated files
 
 # Themes
 
