@@ -12,11 +12,11 @@
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
+    - [Tutorials](#tutorials)
     - [Official Examples](#official-examples)
     - [Examples](#examples)
-    - [Tutorials](#tutorials)
     - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)    
+- [Gallery](#gallery)
 - [Plugins](#plugins)
     - [Official Plugins](#official-plugins)
     - [Community Plugins](#community-plugins)
@@ -27,6 +27,7 @@
     - [Official Projects](#official-projects)
     - [Open Source](#open-source)
     - [Enterprise Usage](#enterprise-usage)
+  - [License](#license)
 
 # Resources
 
@@ -71,11 +72,12 @@
 - [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
 - [@vuepress/plugin-blog](https://v1.vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
+- [@vuepress/plugin-clean-urls](https://v1.vuepress.vuejs.org/plugin/official/plugin-clean-urls.html) - A plugin of automatically generating clean urls
+- [@vuepress/plugin-container](https://v1.vuepress.vuejs.org/plugin/official/plugin-container.html) - A plugin for registering markdown containers
 - [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
 - [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
 - [@vuepress/plugin-medium-zoom](https://v1.vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
-- [@vuepress/plugin-notification](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-notification) - notification plugin
 - [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
 - [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pagination) - pagination plugin
 - [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
@@ -107,6 +109,7 @@
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
+- [vuepress-plugin-serve](https://github.com/Shigma/vuepress-plugin-serve) - A VuePress plugin that serves generated files
 
 # Themes
 
