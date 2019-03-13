@@ -111,6 +111,7 @@
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
 - [vuepress-plugin-serve](https://github.com/Shigma/vuepress-plugin-serve) - A VuePress plugin that serves generated files
 - [vuepress-plugin-ssr-mismatch-workaround](https://github.com/Shigma/vuepress-plugin-ssr-mismatch-workaround) - A VuePress plugin to workaround [SSR mismatches in redirects](https://github.com/vuejs/vuepress/issues/1382)
+- [vuepress-plugin-redirect](https://github.com/Shigma/vuepress-plugin-redirect) - A VuePress plugin for intelligent redirection
 
 # Themes
 
