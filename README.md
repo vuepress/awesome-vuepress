@@ -5,32 +5,31 @@
   <br>
 </p>
 
-## Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to VuePress
 
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Tutorials](#tutorials)
-    - [Official Examples](#official-examples)
-    - [Examples](#examples)
-    - [Blog Posts](#blog-posts)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+  - [Tutorials](#tutorials)
+  - [Official Examples](#official-examples)
+  - [Examples](#examples)
+  - [Blog Posts](#blog-posts)
 - [Gallery](#gallery)
 - [Plugins](#plugins)
-    - [Official Plugins](#official-plugins)
-    - [Community Plugins](#community-plugins)
+  - [Official Plugins](#official-plugins)
+  - [Community Plugins](#community-plugins)
 - [Themes](#themes)
-    - [Official Themes](#official-themes)
-    - [Community Themes](#community-themes)
+  - [Official Themes](#official-themes)
+  - [Community Themes](#community-themes)
 - [Projects Using VuePress](#projects-using-vuepress)
-    - [Official Projects](#official-projects)
-    - [Open Source](#open-source)
-    - [Enterprise Usage](#enterprise-usage)
-  - [License](#license)
+  - [Official Projects](#official-projects)
+  - [Open Source](#open-source)
+  - [Enterprise Usage](#enterprise-usage)
+- [License](#license)
 
-# Resources
-
+## Resources
 
 ### Official Resources
 
@@ -42,7 +41,6 @@
 ### External Resources
 
 > Coming soon...
-
 
 ### Tutorials
 
@@ -61,11 +59,11 @@
 
 > Coming soon...
 
-# Gallery
+## Gallery
 
 - [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
 
-# Plugins
+## Plugins
 
 ### Official Plugins
 
@@ -112,7 +110,7 @@
 - [vuepress-plugin-serve](https://github.com/Shigma/vuepress-plugin-serve) - A VuePress plugin that serves generated files
 - [vuepress-plugin-ssr-mismatch-workaround](https://github.com/Shigma/vuepress-plugin-ssr-mismatch-workaround) - A VuePress plugin to workaround [SSR mismatches in redirects](https://github.com/vuejs/vuepress/issues/1382)
 
-# Themes
+## Themes
 
 ### Official Themes
 
@@ -130,7 +128,7 @@
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
 - [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez) - A blog theme for VuePress by Ktquez :metal: - https://ktquez.com/en/
 
-# Projects Using VuePress
+## Projects Using VuePress
 
 ### Official Projects
 
@@ -199,7 +197,6 @@
 - [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
 - [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
-
 
 ### Enterprise Usage
 
