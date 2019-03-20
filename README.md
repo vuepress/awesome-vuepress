@@ -67,11 +67,11 @@
 
 ### Official Plugins
 
+**Maintained by [vuejs/vuepress](https://github.com/vuejs/vuepress):**
+
 - [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
 - [@vuepress/plugin-blog](https://v1.vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
-- [@vuepress/plugin-clean-urls](https://v1.vuepress.vuejs.org/plugin/official/plugin-clean-urls.html) - A plugin of automatically generating clean urls
-- [@vuepress/plugin-container](https://v1.vuepress.vuejs.org/plugin/official/plugin-container.html) - A plugin for registering markdown containers
 - [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
 - [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
@@ -81,6 +81,14 @@
 - [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
+
+**Maintained by [@vuepress](https://github.com/vuepress):**
+
+- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/container/) - :droplet: Use clean urls in VuePress.
+- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
+- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress.
+- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress.
+- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress.
 
 ### Community Plugins
 
@@ -102,13 +110,10 @@
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
-- [vuepress-plugin-mathjax](https://github.com/Shigma/vuepress-plugin-mathjax) - A VuePress plugin which supports TeX syntax in markdown files
 - [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
-- [vuepress-plugin-serve](https://github.com/Shigma/vuepress-plugin-serve) - A VuePress plugin that serves generated files
-- [vuepress-plugin-ssr-mismatch-workaround](https://github.com/Shigma/vuepress-plugin-ssr-mismatch-workaround) - A VuePress plugin to workaround [SSR mismatches in redirects](https://github.com/vuejs/vuepress/issues/1382)
 
 ## Themes
 
