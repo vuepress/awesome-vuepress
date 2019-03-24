@@ -114,6 +114,7 @@
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
+- [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
 
 ## Themes
 
