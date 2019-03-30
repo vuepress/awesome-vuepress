@@ -84,7 +84,7 @@
 
 **Maintained by [@vuepress](https://github.com/vuepress):**
 
-- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/container/) - :droplet: Use clean urls in VuePress.
+- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress.
 - [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
 - [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress.
 - [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress.
