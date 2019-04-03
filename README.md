@@ -57,7 +57,7 @@
 
 ### Blog Posts
 
-> Coming soon...
+- [Using VuePress for component library documentation](https://www.xiegerts.com/post/creating-vue-component-library-documentation/)
 
 ## Gallery
 
@@ -94,7 +94,7 @@
 ### Community Plugins
 
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
-- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) -  Rapid flowchart development plugin for VuePress
+- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for VuePress
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
 - [vuepress-plugin-sitemap](https://github.com/ekoeryanto/vuepress-plugin-sitemap) - Sitemap generator plugin for vuepress.
 - [vuepress-plugin-seo](https://github.com/lorisleiva/vuepress-plugin-seo) - 🔌 Generate SEO friendly meta header for every page
@@ -208,8 +208,8 @@
 
 ### Enterprise Usage
 
- - Alibaba
- - Ant Financial
+- Alibaba
+- Ant Financial
 
 ## License
 
