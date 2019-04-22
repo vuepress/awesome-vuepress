@@ -206,7 +206,7 @@
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
 - [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
 - [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
-
+- [Vuepress Theme Cool Starter](https://friendlyuser.github.io/vuepress-theme-cool-starter/)
 ### Enterprise Usage
 
 - Alibaba
