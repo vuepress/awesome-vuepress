@@ -207,6 +207,8 @@
 - [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
 - [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
 - [Vuepress Theme Cool Starter](https://friendlyuser.github.io/vuepress-theme-cool-starter/)
+- [vuesion](https://vuesion.herokuapp.com/docs/) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
+
 ### Enterprise Usage
 
 - Alibaba
