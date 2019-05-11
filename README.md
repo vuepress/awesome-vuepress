@@ -117,6 +117,8 @@
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
 - [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
 - [vuepress-plugin-baidu-autopush](https://github.com/IOriens/vuepress-plugin-baidu-autopush) - Inject Baidu url-auto-push script to optimize your site for Baidu SEO.
+- [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
+- [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 
 ## Themes
 
@@ -135,6 +137,7 @@
 - [vuepress-theme-melody](https://github.com/Molunerfinn/vuepress-theme-melody) - A simple & beautiful blog theme for vuepress. https://molunerfinn.com/hexo-theme-melody-doc/
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
 - [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez) - A blog theme for VuePress by Ktquez :metal: - https://ktquez.com/en/
+- [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress [preview](https://ououe.com/)
 
 ## Projects Using VuePress
 
