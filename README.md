@@ -138,6 +138,7 @@
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
 - [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez) - A blog theme for VuePress by Ktquez :metal: - https://ktquez.com/en/
 - [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress [preview](https://ououe.com/)
+- [vuepress-theme-yuicer](https://github.com/yuicer/vuepress-theme-yuicer/blob/master/packages/vuepress-theme-yuicer/README.md) - A vuepress blog theme for otaku - https://blog.yuicer.com/
 
 ## Projects Using VuePress
 
