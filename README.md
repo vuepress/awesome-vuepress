@@ -138,6 +138,8 @@
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
 - [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez) - A blog theme for VuePress by Ktquez :metal: - https://ktquez.com/en/
 - [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress [preview](https://ououe.com/)
+- [vuepress-theme-yuicer](https://github.com/yuicer/vuepress-theme-yuicer/blob/master/packages/vuepress-theme-yuicer/README.md) - A vuepress blog theme for otaku - https://blog.yuicer.com/
+- [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 
 ## Projects Using VuePress
 
@@ -183,7 +185,7 @@
 - [vue-styleguidist](https://vue-styleguidist.github.io/) - Created from react styleguidist for Vue Components with a living style guide
 - [vue-chartjs](https://vue-chartjs.org/) - ⚡ Easy and beautiful charts with Chart.js and Vue.js
 - [shadow](https://imperceptiblethoughts.com/shadow/) - Gradle Shadow Plugin
-- [cms](https://docs.craftcms.com/v3/) - Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+- [Craft CMS](https://docs.craftcms.com/v3/) - Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 - [open-wc](https://open-wc.org/) - Open Web Component Recommendations
 - [pywebview](https://pywebview.flowrl.com/) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [nuxt-beginners-guide](https://nuxt-beginners-guide.elevenback.jp/) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.
