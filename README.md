@@ -5,31 +5,31 @@
   <br>
 </p>
 
-## Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to VuePress
 
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Examples](#official-examples)
-    - [Examples](#examples)
-    - [Tutorials](#tutorials)
-    - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)    
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+  - [Tutorials](#tutorials)
+  - [Official Examples](#official-examples)
+  - [Examples](#examples)
+  - [Blog Posts](#blog-posts)
+- [Gallery](#gallery)
 - [Plugins](#plugins)
-    - [Official Plugins](#official-plugins)
-    - [Community Plugins](#community-plugins)
+  - [Official Plugins](#official-plugins)
+  - [Community Plugins](#community-plugins)
 - [Themes](#themes)
-    - [Official Themes](#official-themes)
-    - [Community Themes](#community-themes)
+  - [Official Themes](#official-themes)
+  - [Community Themes](#community-themes)
 - [Projects Using VuePress](#projects-using-vuepress)
-    - [Official Projects](#official-projects)
-    - [Open Source](#open-source)
-    - [Enterprise Usage](#enterprise-usage)
+  - [Official Projects](#official-projects)
+  - [Open Source](#open-source)
+  - [Enterprise Usage](#enterprise-usage)
+- [License](#license)
 
-# Resources
-
+## Resources
 
 ### Official Resources
 
@@ -41,7 +41,6 @@
 ### External Resources
 
 > Coming soon...
-
 
 ### Tutorials
 
@@ -58,33 +57,43 @@
 
 ### Blog Posts
 
-> Coming soon...
+- [Using VuePress for component library documentation](https://www.xiegerts.com/post/creating-vue-component-library-documentation/)
 
-# Gallery
+## Gallery
 
 - [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
 
-# Plugins
+## Plugins
 
 ### Official Plugins
 
+**Maintained by [vuejs/vuepress](https://github.com/vuejs/vuepress):**
+
 - [@vuepress/plugin-blog](https://vuepress-plugin-blog.ulivz.com/) - Blog plugin
-- [@vuepress/plugin-active-header-links](https://vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
+- [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
-- [@vuepress/plugin-google-analytics](https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
+- [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
 - [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
-- [@vuepress/plugin-medium-zoom](https://vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
-- [@vuepress/plugin-notification](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-notification) - notification plugin
+- [@vuepress/plugin-medium-zoom](https://v1.vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
 - [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
 - [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
-- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
+- [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
+
+**Maintained by [github.com/vuepress](https://github.com/vuepress):**
+
+- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress.
+- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
+- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress.
+- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress.
+- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress.
+- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress.
 
 ### Community Plugins
 
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
-- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) -  Rapid flowchart development plugin for VuePress
+- [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for VuePress
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
 - [vuepress-plugin-sitemap](https://github.com/ekoeryanto/vuepress-plugin-sitemap) - Sitemap generator plugin for vuepress.
 - [vuepress-plugin-seo](https://github.com/lorisleiva/vuepress-plugin-seo) - 🔌 Generate SEO friendly meta header for every page
@@ -101,11 +110,16 @@
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
-- [vuepress-plugin-mathjax](https://github.com/Shigma/vuepress-plugin-mathjax) - A VuePress plugin which supports TeX syntax in markdown files
 - [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
-- [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols) in markdown files for better readability.
+- [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
+- [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
+- [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
+- [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
+- [vuepress-plugin-baidu-autopush](https://github.com/IOriens/vuepress-plugin-baidu-autopush) - Inject Baidu url-auto-push script to optimize your site for Baidu SEO.
+- [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
+- [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 
-# Themes
+## Themes
 
 ### Official Themes
 
@@ -123,8 +137,11 @@
 - [vuepress-theme-melody](https://github.com/Molunerfinn/vuepress-theme-melody) - A simple & beautiful blog theme for vuepress. https://molunerfinn.com/hexo-theme-melody-doc/
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
 - [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez) - A blog theme for VuePress by Ktquez :metal: - https://ktquez.com/en/
+- [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress [preview](https://ououe.com/)
+- [vuepress-theme-yuicer](https://github.com/yuicer/vuepress-theme-yuicer/blob/master/packages/vuepress-theme-yuicer/README.md) - A vuepress blog theme for otaku - https://blog.yuicer.com/
+- [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 
-# Projects Using VuePress
+## Projects Using VuePress
 
 ### Official Projects
 
@@ -176,7 +193,7 @@
 - [vue-styleguidist](https://vue-styleguidist.github.io/) - Created from react styleguidist for Vue Components with a living style guide
 - [vue-chartjs](https://vue-chartjs.org/) - ⚡ Easy and beautiful charts with Chart.js and Vue.js
 - [shadow](https://imperceptiblethoughts.com/shadow/) - Gradle Shadow Plugin
-- [cms](https://docs.craftcms.com/v3/) - Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+- [Craft CMS](https://docs.craftcms.com/v3/) - Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 - [open-wc](https://open-wc.org/) - Open Web Component Recommendations
 - [pywebview](https://pywebview.flowrl.com/) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [nuxt-beginners-guide](https://nuxt-beginners-guide.elevenback.jp/) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.
@@ -200,12 +217,15 @@
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
 - [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
-
+- [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
+- [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
+- [Vuepress Theme Cool Starter](https://friendlyuser.github.io/vuepress-theme-cool-starter/)
+- [vuesion](https://vuesion.herokuapp.com/docs/) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
 
 ### Enterprise Usage
 
- - Alibaba
- - Ant Financial
+- Alibaba
+- Ant Financial
 
 ## License
 
