@@ -116,6 +116,7 @@
 - [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
 - [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
 - [vuepress-plugin-baidu-autopush](https://github.com/IOriens/vuepress-plugin-baidu-autopush) - Inject Baidu url-auto-push script to optimize your site for Baidu SEO.
+- [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/) - markdown custom container to display content in tabs from [Element UI](https://github.com/ElemeFE/element)
 - [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
 - [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 
