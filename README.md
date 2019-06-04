@@ -25,6 +25,7 @@
   - [Community Themes](#community-themes)
 - [Projects Using VuePress](#projects-using-vuepress)
   - [Official Projects](#official-projects)
+  - [Blogging](#blogging)
   - [Open Source](#open-source)
   - [Enterprise Usage](#enterprise-usage)
 - [License](#license)
