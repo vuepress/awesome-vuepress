@@ -69,20 +69,19 @@
 
 **Maintained by [vuejs/vuepress](https://github.com/vuejs/vuepress):**
 
+- [@vuepress/plugin-blog](https://vuepress-plugin-blog.ulivz.com/) - Blog plugin
 - [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
-- [@vuepress/plugin-blog](https://v1.vuepress.vuejs.org/plugin/official/plugin-blog.html) - Blog plugin
 - [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
 - [@vuepress/plugin-i18n-ui](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-i18n-ui) - I18N UI plugin
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
 - [@vuepress/plugin-medium-zoom](https://v1.vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
 - [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
-- [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pagination) - pagination plugin
-- [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
-**Maintained by [@vuepress](https://github.com/vuepress):**
+**Maintained by [github.com/vuepress](https://github.com/vuepress):**
 
 - [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress.
 - [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
@@ -125,6 +124,7 @@
 ### Official Themes
 
 - [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
+- [@vuepress/theme-blog](https://vuepress-theme-blog.ulivz.com/)
 
 ### Community Themes
 
@@ -155,7 +155,15 @@
 - [rollup-plugin-vue](https://rollup-plugin-vue.vuejs.org/)
 - [events](https://github.com/vuejs/events)
 
+### Blogging
+
+> Blog websites that use VuePress.
+
+- [ULIVZ](https://ulivz.com/)
+
 ### Open Source
+
+> Documentation websites that use VuePress.
 
 - [discordjs.guide](https://discordjs.guide/) - The official guide for discord.js, created and maintained by core members of its community.
 - [vue-i18n](https://kazupon.github.io/vue-i18n/) - Vue I18n is internationalization plugin for Vue.js
