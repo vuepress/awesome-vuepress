@@ -224,6 +224,7 @@
 - [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
 - [Vuepress Theme Cool Starter](https://friendlyuser.github.io/vuepress-theme-cool-starter/)
 - [vuesion](https://vuesion.herokuapp.com/docs/) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
+- [blessing-skin-plugin-docs](https://bs-community.github.io/blessing-skin-plugin-docs/) - Blessing Skin Server 插件开发文档
 
 ### Enterprise Usage
 
