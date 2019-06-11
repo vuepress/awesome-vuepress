@@ -162,7 +162,7 @@
 > Blog websites that use VuePress.
 
 - [ULIVZ](https://ulivz.com/)
-- [thuycom.studio (VuePress × Netlify)](https://thuycom.com)
+- [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
 
 ### Open Source
 
