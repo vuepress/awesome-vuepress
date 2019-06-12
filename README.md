@@ -225,7 +225,8 @@
 - [Vuepress Theme Cool Starter](https://friendlyuser.github.io/vuepress-theme-cool-starter/)
 - [vuesion](https://vuesion.herokuapp.com/docs/) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
 - [blessing-skin-plugin-docs](https://bs-community.github.io/blessing-skin-plugin-docs/) - Blessing Skin Server 插件开发文档
-- [Mevn-CLI](https://mevn.madhacks.co) - Light Speed setup for MEVN stack based apps. 
+- [Mevn-CLI](https://mevn.madhacks.co) - Light Speed setup for MEVN stack based apps.
+- [teachcode](https://teachcode.madhacks.co) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
 
 ### Enterprise Usage
 
