@@ -163,6 +163,7 @@
 
 - [ULIVZ](https://ulivz.com/)
 - [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
+- [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
 
 ### Open Source
 
