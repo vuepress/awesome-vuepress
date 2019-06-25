@@ -47,6 +47,8 @@
 
 - [20180518 VueNYC - Introduction to VuePress - Evan You](https://www.youtube.com/watch?v=lIv1ItUzktc)
 - [20190107 Twitch Session: Trying to Write a VuePress Plugin](https://www.youtube.com/watch?v=JbOd6giUiWU)
+- [20190320 Create a Blog with VuePress on GitLab Pages](https://blog.howar31.com/vuepress-blog-tutorial/)
+- [20190625 Secure GitLab Pages with Let's Encrypt Certificate](https://blog.howar31.com/lets-encrypt-ssl-gitlab-pages)
 
 ### Official Examples
 
@@ -164,6 +166,7 @@
 - [ULIVZ](https://ulivz.com/)
 - [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
 - [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
+- [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 
 ### Open Source
 
