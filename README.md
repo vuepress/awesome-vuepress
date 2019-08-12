@@ -126,6 +126,7 @@
 - [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - Have code blocks available in multiple languages that you can switch between
 - [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website 
+- [vuepress-plugin-social-share](https://github.com/ntnyq/vuepress-plugin-social-share) - A VuePress plugin which provides social sharing services
 
 ## Themes
 
