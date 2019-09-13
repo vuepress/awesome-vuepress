@@ -125,8 +125,9 @@
 - [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
 - [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - Have code blocks available in multiple languages that you can switch between
-- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website 
+- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website
 - [vuepress-plugin-social-share](https://github.com/ntnyq/vuepress-plugin-social-share) - A VuePress plugin which provides social sharing services
+- [vuepress-plugin-gitalk-maker](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/) - modern comment component, base on [Gitalk](https://github.com/gitalk/gitalk) [preview](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/)
 
 ## Themes
 
@@ -238,8 +239,8 @@
 - [blessing-skin-plugin-docs](https://bs-community.github.io/blessing-skin-plugin-docs/) - Blessing Skin Server 插件开发文档
 - [Mevn-CLI](https://mevn.madhacks.co) - Light Speed setup for MEVN stack based apps.
 - [teachcode](https://teachcode.madhacks.co) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
-- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples. 
-- [idea快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
+- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples.
+- [idea 快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
 - [SiteWhere Documentation](https://sitewhere.io/docs/2.0.0/) - [SiteWhere](https://sitewhere.io/en/) is the open platform for the Internet of Things. [Source](https://github.com/sitewhere/sitewhere-documentation).
 - [Pomerium](https://www.pomerium.io) - Pomerium is the [open-source](https://github.com/pomerium/pomerium) identity-aware access proxy.
 
