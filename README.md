@@ -97,6 +97,7 @@
 
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
 - [vuepress-plugin-docgen](https://github.com/f3ltron/vuepress-plugin-docgen) - auto docs generation for your components
+- [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy) - automatically add copy buttons to all code blocks
 - [vuepress-plugin-check-md](https://github.com/f3ltron/vuepress-plugin-check-md) - Check dead links of markdown.
 - [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for VuePress
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
@@ -125,7 +126,7 @@
 - [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
 - [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - Have code blocks available in multiple languages that you can switch between
-- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website 
+- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website
 - [vuepress-plugin-social-share](https://github.com/ntnyq/vuepress-plugin-social-share) - A VuePress plugin which provides social sharing services
 
 ## Themes
@@ -238,8 +239,8 @@
 - [blessing-skin-plugin-docs](https://bs-community.github.io/blessing-skin-plugin-docs/) - Blessing Skin Server 插件开发文档
 - [Mevn-CLI](https://mevn.madhacks.co) - Light Speed setup for MEVN stack based apps.
 - [teachcode](https://teachcode.madhacks.co) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
-- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples. 
-- [idea快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
+- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples.
+- [idea 快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
 - [SiteWhere Documentation](https://sitewhere.io/docs/2.0.0/) - [SiteWhere](https://sitewhere.io/en/) is the open platform for the Internet of Things. [Source](https://github.com/sitewhere/sitewhere-documentation).
 - [Pomerium](https://www.pomerium.io) - Pomerium is the [open-source](https://github.com/pomerium/pomerium) identity-aware access proxy.
 
