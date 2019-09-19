@@ -41,7 +41,7 @@
 
 ### External Resources
 
-> Coming soon...
+- [Working with Ghost and VuePress](https://ghost.org/docs/api/v2/vuepress/)
 
 ### Tutorials
 
