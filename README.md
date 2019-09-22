@@ -247,6 +247,7 @@
 - [idea 快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
 - [SiteWhere Documentation](https://sitewhere.io/docs/2.0.0/) - [SiteWhere](https://sitewhere.io/en/) is the open platform for the Internet of Things. [Source](https://github.com/sitewhere/sitewhere-documentation).
 - [Pomerium](https://www.pomerium.io) - Pomerium is the [open-source](https://github.com/pomerium/pomerium) identity-aware access proxy.
+- [Wasabi Wallet](https://docs.wasabiwallet.io) – An archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop.
 
 ### Enterprise Usage
 
