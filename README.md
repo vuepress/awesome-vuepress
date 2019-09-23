@@ -41,7 +41,7 @@
 
 ### External Resources
 
-> Coming soon...
+- [Working with Ghost and VuePress](https://ghost.org/docs/api/v2/vuepress/)
 
 ### Tutorials
 
@@ -80,7 +80,7 @@
 - [@vuepress/plugin-last-updated](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-last-updated) - A plugin for displaying last updated time of pages
 - [@vuepress/plugin-medium-zoom](https://v1.vuepress.vuejs.org/plugin/official/plugin-medium-zoom.html) - medium-zoom plugin
 - [@vuepress/plugin-nprogress](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-nprogress) - nprogress plugin
-- [@vuepress/plugin-pwa](https://vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
+- [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html) - PWA plugin
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
@@ -125,8 +125,11 @@
 - [vuepress-plugin-blog-multidir](https://github.com/tolking/vuepress-plugin-blog-multidir) - A VuePress blog plugin which Support multiple folders
 - [vuepress-plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) - A reading progress bar plugin for vuepress
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - Have code blocks available in multiple languages that you can switch between
-- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website 
+- [vuepress-plugin-global-toc](https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc) - An alternative table of contents that covers the entire vuepress website
 - [vuepress-plugin-social-share](https://github.com/ntnyq/vuepress-plugin-social-share) - A VuePress plugin which provides social sharing services
+- [vuepress-plugin-gitalk-maker](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/) - modern comment component, base on [Gitalk](https://github.com/gitalk/gitalk) [preview](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/)
+- [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy) - automatically add copy buttons to all code blocks
+- [vuepress-plugin-img-lazy](https://github.com/tolking/vuepress-plugin-img-lazy) - A vuepress plugin to better supporting image lazy loading
 - [vuepress-plugin-vue-demo](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vue-demo) - Write vue demo in markdown like elementui documents
 - [vuepress-plugin-vuese-docs](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vuese-docs) - Automatic generation of component documentation via code comments and demo examples
 
@@ -153,6 +156,7 @@
 - [vuepress-theme-yuicer](https://github.com/yuicer/vuepress-theme-yuicer/blob/master/packages/vuepress-theme-yuicer/README.md) - A vuepress blog theme for otaku - https://blog.yuicer.com/
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 - [vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume) - 🐈 Write and generate a markdown resume by VuePress.
+- [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
 
 ## Projects Using VuePress
 
@@ -240,10 +244,11 @@
 - [blessing-skin-plugin-docs](https://bs-community.github.io/blessing-skin-plugin-docs/) - Blessing Skin Server 插件开发文档
 - [Mevn-CLI](https://mevn.madhacks.co) - Light Speed setup for MEVN stack based apps.
 - [teachcode](https://teachcode.madhacks.co) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
-- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples. 
-- [idea快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
+- [Docker 绿皮书](http://docs.nigeerhuo.com/docker) - Help beginners get started quickly with docker, and show docker's power through a few simple small examples.
+- [idea 快捷键速查文档](http://docs.nigeerhuo.com/idea/) - Help Intellij IDEA users write code without mouse. And also supply Chinese translation of official keymap PDF(Mac/Win/Linux), it's available on webpage!
 - [SiteWhere Documentation](https://sitewhere.io/docs/2.0.0/) - [SiteWhere](https://sitewhere.io/en/) is the open platform for the Internet of Things. [Source](https://github.com/sitewhere/sitewhere-documentation).
 - [Pomerium](https://www.pomerium.io) - Pomerium is the [open-source](https://github.com/pomerium/pomerium) identity-aware access proxy.
+- [Wasabi Wallet](https://docs.wasabiwallet.io) – An archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop.
 
 ### Enterprise Usage
 
