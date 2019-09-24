@@ -156,6 +156,7 @@
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 - [vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume) - 🐈 Write and generate a markdown resume by VuePress.
 - [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
+- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A simple and powerful vuepress blog theme by cnguu - [Preview](https://gleehub.com)
 
 ## Projects Using VuePress
 
