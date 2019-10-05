@@ -34,10 +34,11 @@
 
 ### Official Resources
 
-- [Official Guide](https://vuepress.vuejs.org/guide/)
-- [Config Reference](https://vuepress.vuejs.org/config/)
-- [GitHub Repo](https://github.com/vuejs/vuepress)
-- [Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
+- [Docs - Official Guide](https://vuepress.vuejs.org/guide/)
+- [Docs - Config Reference](https://vuepress.vuejs.org/config/)
+- [Docs - GitHub Repo](https://github.com/vuejs/vuepress)
+- [Docs - Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
+- [Medium - Intro to VuePress 1.x](https://medium.com/@_ulivz/intro-to-vuepress-1-x-7e2b7885f95f)
 
 ### External Resources
 
@@ -52,7 +53,7 @@
 
 ### Official Examples
 
-> Coming soon...
+- [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)
 
 ### Examples
 
