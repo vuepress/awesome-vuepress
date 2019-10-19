@@ -160,6 +160,7 @@
 - [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
 - [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A simple and powerful vuepress blog theme by cnguu - [Preview](https://gleehub.com)
 - [vuepress-theme-modern-blog](https://github.com/z3by/vuepress-theme-modern-blog) - 💖 Vuepress Blog Modern Theme
+- [vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress theme that supports a dark theme, multiple color themes, and other useful features.
 
 ## Projects Using VuePress
 
