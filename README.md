@@ -131,6 +131,7 @@
 - [vuepress-plugin-gitalk-maker](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/) - modern comment component, base on [Gitalk](https://github.com/gitalk/gitalk) [preview](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/)
 - [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy) - automatically add copy buttons to all code blocks
 - [vuepress-plugin-img-lazy](https://github.com/tolking/vuepress-plugin-img-lazy) - A vuepress plugin to better supporting image lazy loading
+- [vuepress-plugin-merge-pages](https://github.com/vinicius73/vuepress-plugin-merge-pages) - Merge markdown files in a single markdown
 
 
 ## Themes
