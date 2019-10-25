@@ -85,14 +85,23 @@
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
-**Maintained by [github.com/vuepress](https://github.com/vuepress):**
+**Maintained by [vuepress/vuepress-community](https://github.com/vuepress/vuepress-community):**
 
-- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress.
-- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
-- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress.
-- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress.
-- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress.
-- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress.
+- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress
+- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress
+- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress
+- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress
+- [vuepress-plugin-git-log](https://vuepress.github.io/plugins/git-log/) - :floppy_disk: Integrate git logs into VuePress
+- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress
+- [vuepress-plugin-medium-zoom](https://vuepress.github.io/plugins/medium-zoom/) - :mag: Make images zoomable in VuePress
+- [vuepress-plugin-migrate](https://vuepress.github.io/plugins/migrate/) - :paw_prints: Migrate another website to VuePress
+- [vuepress-plugin-named-chunks](https://vuepress.github.io/plugins/named-chunks/) - :name_badge: Generate named chunks in VuePress
+- [vuepress-plugin-nprogress](https://vuepress.github.io/plugins/nprogress/) - :running: Show progress bar in VuePress
+- [vuepress-plugin-redirect](https://vuepress.github.io/plugins/redirect/) - :traffic_light: Handle redirection in VuePress
+- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress
+- [vuepress-plugin-smooth-scroll](https://vuepress.github.io/plugins/smooth-scroll/) - :roller_coaster: Make scrolling smooth in VuePress
+- [vuepress-plugin-table-of-contents](https://vuepress.github.io/plugins/table-of-contents/) - :bookmark: Provides table-of-contents component in VuePress
+- [vuepress-plugin-zooming](https://vuepress.github.io/plugins/zooming/) - :mag: Make images zoomable in VuePress
 
 ### Community Plugins
 
@@ -116,10 +125,8 @@
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
-- [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
-- [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
 - [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
 - [vuepress-plugin-baidu-autopush](https://github.com/IOriens/vuepress-plugin-baidu-autopush) - Inject Baidu url-auto-push script to optimize your site for Baidu SEO.
 - [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/) - markdown custom container to display content in tabs from [Element UI](https://github.com/ElemeFE/element)
@@ -147,7 +154,7 @@
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
-- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 Vuepress Theme - Meteorlxy
+- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 VuePress Blog Theme - Meteorlxy
 - [vuepress-theme-macgs](https://github.com/EasyHexo/vuepress-theme-macgs) - :dizzy: A vuepress theme for [easyhexo.com](https://easyhexo.com)
 - [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering
 - [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple) - ✏️ Very Simple Blog Theme for VuePress
@@ -187,6 +194,7 @@
 - [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
 - [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
+- [meteorlxy](https://www.meteorlxy.cn/)
 
 ### Open Source
 
@@ -242,7 +250,7 @@
 - [d2-daily](https://daily.fairyever.com/) - D2 日报。
 - [SorryPress](https://github.com/fritx/SorryPress) - Vuepress version of [_xtyxtyx/sorry_](https://github.com/xtyxtyx/sorry)
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
-- [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
+- [vssue](https://vssue.js.org) - :mailbox: A Vue-powered Issue-based Comment Plugin
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
 - [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
 - [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
@@ -262,6 +270,7 @@
 
 - Alibaba
 - Ant Financial
+- Tencent
 
 ## License
 
