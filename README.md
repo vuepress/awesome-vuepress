@@ -171,6 +171,7 @@
 - [vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress theme that supports a dark theme, multiple color themes, and other useful features.
 - [vuepress-theme-seeker](https://github.com/wensonsmith/vuepress-theme-seeker) - 🌈 A colorful and simple blog theme  - https://iwenson.com
 - [vuepress-theme-onen](https://github.com/Veminem/vuepress-theme-oneN) - 🎈 A vuepress theme for oneN - [Preview](https://vincenthy.site)
+- [vuepress-theme-typewriter](https://github.com/mAKEkr/vuepress-theme-typewriter) - Blog theme focusing on Korean Typography. - [Preview](https://ake.kr)
 
 ## Projects Using VuePress
 
