@@ -58,6 +58,7 @@
 ### Examples
 
 - [davidangel.net](https://davidangel.net/) - An example of a site running VuePress on Netlify.
+- [vuepress-login](https://terryz.github.io/vuepress-login) - An example for add authorization with [v-dialogs](https://github.com/TerryZ/v-dialogs) on VuePress
 
 ### Blog Posts
 
