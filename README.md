@@ -67,6 +67,7 @@
 ## Gallery
 
 - [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
+- [vuepress themes](https://vuepress-themes.z3by.com/) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
 
