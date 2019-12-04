@@ -102,6 +102,7 @@
 - [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress
 - [vuepress-plugin-smooth-scroll](https://vuepress.github.io/plugins/smooth-scroll/) - :roller_coaster: Make scrolling smooth in VuePress
 - [vuepress-plugin-table-of-contents](https://vuepress.github.io/plugins/table-of-contents/) - :bookmark: Provides table-of-contents component in VuePress
+- [vuepress-plugin-typescript](https://vuepress.github.io/plugins/typescript/) - :palm_tree: Support TypeScript in VuePress
 - [vuepress-plugin-zooming](https://vuepress.github.io/plugins/zooming/) - :mag: Make images zoomable in VuePress
 
 ### Community Plugins
