@@ -176,6 +176,8 @@
 - [vuepress-theme-onen](https://github.com/Veminem/vuepress-theme-oneN) - 🎈 A vuepress theme for oneN - [Preview](https://vincenthy.site)
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
+- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://chenyating.github.io/)
+
 
 ## Projects Using VuePress
 
@@ -200,6 +202,7 @@
 - [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 - [meteorlxy](https://www.meteorlxy.cn/)
+- [维维博客](https://liangwei.link/)
 
 ### Open Source
 
@@ -272,7 +275,8 @@
 - [kriry开发者网络](https://dev.kriry.com/) -  kriry开发者网络 (kriry developer net).
 - [GROWI Docs](https://docs.growi.org/) - [Open Source](https://github.com/weseek/growi) Markdown x Wiki. Real-time preview on left and right screens is possible.
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
-- [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine 
+- [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
+- [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
 
 ### Enterprise Usage
 
