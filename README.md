@@ -201,6 +201,7 @@
 - [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 - [meteorlxy](https://www.meteorlxy.cn/)
+- [维维博客](https://liangwei.link/)
 
 ### Open Source
 
