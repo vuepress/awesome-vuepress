@@ -271,7 +271,8 @@
 - [kriry开发者网络](https://dev.kriry.com/) -  kriry开发者网络 (kriry developer net).
 - [GROWI Docs](https://docs.growi.org/) - [Open Source](https://github.com/weseek/growi) Markdown x Wiki. Real-time preview on left and right screens is possible.
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
-- [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine 
+- [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
+- [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
 
 ### Enterprise Usage
 
