@@ -67,7 +67,7 @@
 ## Gallery
 
 - [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
-- [vuepress themes](https://vuepress-themes.z3by.com/) - By [@z3by](https://github.com/z3by)
+- [Vuepress.Tools](https://vuepress.tools) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
 
@@ -203,6 +203,7 @@
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 - [meteorlxy](https://www.meteorlxy.cn/)
 - [维维博客](https://liangwei.link/)
+- [Ahmad Mostafa](https://ahmadmostafa.com/)
 
 ### Open Source
 
@@ -277,6 +278,7 @@
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
 - [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
 - [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
+- [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 
 ### Enterprise Usage
 
