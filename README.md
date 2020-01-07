@@ -176,7 +176,7 @@
 - [vuepress-theme-onen](https://github.com/Veminem/vuepress-theme-oneN) - 🎈 A vuepress theme for oneN - [Preview](https://vincenthy.site)
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
-- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://chenyating.github.io/)
+- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
 
 
 ## Projects Using VuePress
