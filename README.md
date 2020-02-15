@@ -143,6 +143,7 @@
 - [vuepress-plugin-img-lazy](https://github.com/tolking/vuepress-plugin-img-lazy) - A vuepress plugin to better supporting image lazy loading
 - [vuepress-plugin-merge-pages](https://github.com/vinicius73/vuepress-plugin-merge-pages) - Merge markdown files in a single markdown
 - [vuepress-plugin-authors](https://github.com/z3by/vuepress-plugin-authors) - :writing_hand: Get all the authors of a md file in the $page object
+- [vuepress-plugin-catalog-graph](https://github.com/ludanxer/catalog-graph) A network graph for your VuePress' documentation
 
 ## Themes
 
