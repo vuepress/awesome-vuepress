@@ -286,9 +286,11 @@
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
 - [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
 - [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
+- [SuperAgent 中文文档](https://superagent.org.cn) - SuperAgent 中文文档
 - [Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com) 
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
+
 
 ### Enterprise Usage
 
