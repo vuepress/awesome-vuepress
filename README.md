@@ -108,6 +108,8 @@
 
 ### Community Plugins
 
+
+- [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
 - [vuepress-plugin-mailchimp](https://github.com/newsbielt703/vuepress-plugin-mailchimp) - Simplifies subscribing new email addresses to a Mailchimp email list.
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
 - [vuepress-plugin-docgen](https://github.com/f3ltron/vuepress-plugin-docgen) - auto docs generation for your components
