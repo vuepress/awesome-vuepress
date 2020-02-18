@@ -67,7 +67,7 @@
 ## Gallery
 
 - [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
-- [vuepress themes](https://vuepress-themes.z3by.com/) - By [@z3by](https://github.com/z3by)
+- [Vuepress.Tools](https://vuepress.tools) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
 
@@ -108,6 +108,9 @@
 
 ### Community Plugins
 
+
+- [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
+- [vuepress-plugin-mailchimp](https://github.com/newsbielt703/vuepress-plugin-mailchimp) - Simplifies subscribing new email addresses to a Mailchimp email list.
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
 - [vuepress-plugin-docgen](https://github.com/f3ltron/vuepress-plugin-docgen) - auto docs generation for your components
 - [vuepress-plugin-check-md](https://github.com/f3ltron/vuepress-plugin-check-md) - Check dead links of markdown.
@@ -115,7 +118,6 @@
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
 - [vuepress-plugin-sitemap](https://github.com/ekoeryanto/vuepress-plugin-sitemap) - Sitemap generator plugin for vuepress.
 - [vuepress-plugin-seo](https://github.com/lorisleiva/vuepress-plugin-seo) - 🔌 Generate SEO friendly meta header for every page
-- [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
 - [vuepress-plugin-demo-code](https://github.com/BuptStEve/vuepress-plugin-demo-code) - Display your demo and code at the same time with one source code.
 - [@silvanite/vuepress-plugin-markdown-classes](https://github.com/Silvanite/vuepress-plugin-markdown-classes) - Add unique class names to markdown generated html.
 - [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress
@@ -144,6 +146,8 @@
 - [vuepress-plugin-merge-pages](https://github.com/vinicius73/vuepress-plugin-merge-pages) - Merge markdown files in a single markdown
 - [vuepress-plugin-authors](https://github.com/z3by/vuepress-plugin-authors) - :writing_hand: Get all the authors of a md file in the $page object
 - [vuepress-plugin-glossary](https://www.npmjs.com/package/vuepress-plugin-glossary) - :book: 📚 Glossary implementation helping to establish a ubiquitous language within the project
+- [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
+- [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 
 ## Themes
 
@@ -170,14 +174,18 @@
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 - [vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume) - 🐈 Write and generate a markdown resume by VuePress.
 - [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
-- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A simple and powerful vuepress blog theme by cnguu - [Preview](https://gleehub.com)
+- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A minimalistic but not simple blog theme by [cnguu](https://github.com/cnguu/) - [Preview](https://www.gleehub.com)
 - [vuepress-theme-modern-blog](https://github.com/z3by/vuepress-theme-modern-blog) - 💖 Vuepress Blog Modern Theme [Demo](https://vp-modern.z3by.com/)
 - [vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress theme that supports a dark theme, multiple color themes, and other useful features.
 - [vuepress-theme-seeker](https://github.com/wensonsmith/vuepress-theme-seeker) - 🌈 A colorful and simple blog theme  - https://iwenson.com
 - [vuepress-theme-onen](https://github.com/Veminem/vuepress-theme-oneN) - 🎈 A vuepress theme for oneN - [Preview](https://vincenthy.site)
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
+- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
 - [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://chenyating.github.io/)
+- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A meduim-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
+- [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
+
 
 
 ## Projects Using VuePress
@@ -204,6 +212,9 @@
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 - [meteorlxy](https://www.meteorlxy.cn/)
 - [维维博客](https://liangwei.link/)
+- [cnguu's blog](https://www.gleehub.com)
+- [Ahmad Mostafa](https://ahmadmostafa.com/)
+
 
 ### Open Source
 
@@ -278,6 +289,12 @@
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
 - [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
 - [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
+- [LLStack](https://www.llstack.com/) - 轻量、高性能的 (Open)LiteSpeed+PHP+MySQL 运行环境
+- [SuperAgent 中文文档](https://superagent.org.cn) - SuperAgent 中文文档
+- [Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com) 
+- [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
+- [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
+
 
 ### Enterprise Usage
 
