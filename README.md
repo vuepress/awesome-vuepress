@@ -123,7 +123,6 @@
 - [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress
 - [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component
 - [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites
-- [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX
 - [vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) reading-time plugin to display how long a page takes to read
 - [vuepress-plugin-minimal-analytics](https://github.com/webmasterish/vuepress-plugin-minimal-analytics) - Minimal Google Analytics plugin for VuePress
 - [vuepress-plugin-autometa](https://github.com/webmasterish/vuepress-plugin-autometa) - Auto meta tags plugin for VuePress
@@ -165,7 +164,6 @@
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
 - [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 VuePress Blog Theme - Meteorlxy
 - [vuepress-theme-macgs](https://github.com/EasyHexo/vuepress-theme-macgs) - :dizzy: A vuepress theme for [easyhexo.com](https://easyhexo.com)
-- [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering
 - [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple) - ✏️ Very Simple Blog Theme for VuePress
 - [vuepress-theme-melody](https://github.com/Molunerfinn/vuepress-theme-melody) - A simple & beautiful blog theme for vuepress. https://molunerfinn.com/hexo-theme-melody-doc/
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
