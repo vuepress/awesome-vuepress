@@ -145,6 +145,8 @@
 - [vuepress-plugin-img-lazy](https://github.com/tolking/vuepress-plugin-img-lazy) - A vuepress plugin to better supporting image lazy loading
 - [vuepress-plugin-merge-pages](https://github.com/vinicius73/vuepress-plugin-merge-pages) - Merge markdown files in a single markdown
 - [vuepress-plugin-authors](https://github.com/z3by/vuepress-plugin-authors) - :writing_hand: Get all the authors of a md file in the $page object
+- [vuepress-plugin-catalog-graph](https://github.com/ludanxer/catalog-graph) A network graph for your VuePress' documentation
+- [vuepress-plugin-glossary](https://www.npmjs.com/package/vuepress-plugin-glossary) - :book: 📚 Glossary implementation helping to establish a ubiquitous language within the project
 - [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 
@@ -288,6 +290,7 @@
 - [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
 - [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
 - [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
+- [LLStack](https://www.llstack.com/) - 轻量、高性能的 (Open)LiteSpeed+PHP+MySQL 运行环境
 - [SuperAgent 中文文档](https://superagent.org.cn) - SuperAgent 中文文档
 - [Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com) 
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
