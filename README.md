@@ -173,7 +173,7 @@
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 - [vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume) - 🐈 Write and generate a markdown resume by VuePress.
 - [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
-- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A minimalistic but not simple blog theme by [cnguu](https://github.com/cnguu/) - [Preview](https://www.gleehub.com)
+- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A minimalistic but not simple blog theme by [cnguu](https://github.com/cnguu/) - [Preview](https://blog.cnguu.cn/)
 - [vuepress-theme-modern-blog](https://github.com/z3by/vuepress-theme-modern-blog) - 💖 Vuepress Blog Modern Theme [Demo](https://vp-modern.z3by.com/)
 - [vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress theme that supports a dark theme, multiple color themes, and other useful features.
 - [vuepress-theme-seeker](https://github.com/wensonsmith/vuepress-theme-seeker) - 🌈 A colorful and simple blog theme  - https://iwenson.com
@@ -211,7 +211,7 @@
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
 - [meteorlxy](https://www.meteorlxy.cn/)
 - [维维博客](https://liangwei.link/)
-- [cnguu's blog](https://www.gleehub.com)
+- [cnguu's blog](https://blog.cnguu.cn/)
 - [Ahmad Mostafa](https://ahmadmostafa.com/)
 
 
