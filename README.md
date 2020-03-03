@@ -295,6 +295,7 @@
 - [Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com) 
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
+- [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
 
 
 ### Enterprise Usage
