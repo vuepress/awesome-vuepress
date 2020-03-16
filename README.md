@@ -159,6 +159,7 @@
 
 ### Community Themes
 
+- [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
