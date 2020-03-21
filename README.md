@@ -213,6 +213,7 @@
 - [维维博客](https://liangwei.link/)
 - [cnguu's blog](https://blog.cnguu.cn/)
 - [Ahmad Mostafa](https://ahmadmostafa.com/)
+- [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
 
 
 ### Open Source
