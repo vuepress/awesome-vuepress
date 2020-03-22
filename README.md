@@ -184,7 +184,7 @@
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
 - [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
 - [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
-- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A meduim-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
+- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
 
 ## Projects Using VuePress
@@ -231,7 +231,7 @@
 - [macaca-datahub](https://macacajs.github.io/macaca-datahub/) - Just enjoy the data out-of-the-box.
 - [app-inspector](https://macacajs.github.io/app-inspector/) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically
 - [form-wrapper-js](https://nevoss.github.io/form-wrapper-js/) - A lightweight library that creates forms systems in a convenient and easy way, without dependencies and magic code.
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implememted by Vue
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implemented by Vue
 - [openhab](https://www.openhab.org/docs/) - an open source, technology agnostic home automation platform which runs as the center of your smart home!
 - [ms-design](https://ms-design.github.io/) - Vue components that implement Microsoft Design Language
 - [archcheatsheet](https://archcheatsheet.com/) - Offline dual boot/no desktop environment
