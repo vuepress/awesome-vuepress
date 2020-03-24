@@ -149,6 +149,7 @@
 - [vuepress-plugin-glossary](https://www.npmjs.com/package/vuepress-plugin-glossary) - :book: 📚 Glossary implementation helping to establish a ubiquitous language within the project
 - [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
+- [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
 
 ## Themes
 
