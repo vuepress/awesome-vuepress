@@ -108,7 +108,7 @@
 
 ### Community Plugins
 
-
+- [vuepress-plugin-graysite](https://github.com/zpfz/vuepress-plugin-graysite) - Plug-ins that gray your site for VuePress.(Generally used for Mourning Day)   
 - [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
 - [vuepress-plugin-mailchimp](https://github.com/newsbielt703/vuepress-plugin-mailchimp) - Simplifies subscribing new email addresses to a Mailchimp email list.
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
@@ -160,6 +160,7 @@
 
 ### Community Themes
 
+- [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
