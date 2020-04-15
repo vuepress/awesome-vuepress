@@ -216,6 +216,7 @@
 - [cnguu's blog](https://blog.cnguu.cn/)
 - [Ahmad Mostafa](https://ahmadmostafa.com/)
 - [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
+- [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 
 
 ### Open Source
