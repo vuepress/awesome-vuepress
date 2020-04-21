@@ -299,6 +299,8 @@
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
 - [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
+- [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
+
 
 
 ### Enterprise Usage
