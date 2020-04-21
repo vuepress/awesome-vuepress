@@ -150,6 +150,7 @@
 - [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+- [vuepress-plugin-plausible-analytics](https://github.com/leoloso/vuepress-plugin-plausible-analytics) - Add [Plausible](https://plausible.io) analytics to the VuePress site
 
 ## Themes
 
