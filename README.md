@@ -150,6 +150,7 @@
 - [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+- [vuepress-plugin-right-anchor](https://github.com/xuekai-china/vuepress-plugin-right-anchor) - Add anchor navigation bar to the right of the document page written in vuepress
 
 ## Themes
 
@@ -297,6 +298,7 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [soonspacejs](http://www.xwbuilders.com:9018/soonspacejs/Docs/) - Simple and easy to learn webgl plug-in through threejs.
 
 
 ### Enterprise Usage
