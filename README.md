@@ -188,6 +188,7 @@
 - [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
+- [vuepress-theme-note](https://github.com/JackRay-C/vuepress-theme-note) - A vuepress theme for notes [vuepress-theme-note](https://jackray-c.github.io/vuepress-theme-note/)
 
 ## Projects Using VuePress
 
