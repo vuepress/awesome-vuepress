@@ -151,6 +151,7 @@
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
 - [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics) - Baidu tongji analytics plugin
+- [vuepress-plugin-toolbar](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-toolbar) - Sidebar display custom toolbar plugin
 
 ## Themes
 
