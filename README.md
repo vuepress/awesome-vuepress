@@ -9,26 +9,27 @@
 
 > A curated list of awesome things related to VuePress
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Tutorials](#tutorials)
-  - [Official Examples](#official-examples)
-  - [Examples](#examples)
-  - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)
-- [Plugins](#plugins)
-  - [Official Plugins](#official-plugins)
-  - [Community Plugins](#community-plugins)
-- [Themes](#themes)
-  - [Official Themes](#official-themes)
-  - [Community Themes](#community-themes)
-- [Projects Using VuePress](#projects-using-vuepress)
-  - [Official Projects](#official-projects)
-  - [Blogging](#blogging)
-  - [Open Source](#open-source)
-  - [Enterprise Usage](#enterprise-usage)
-- [License](#license)
+1. [Awesome VuePress ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuepress-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+   1. [Resources](#resources)
+      1. [Official Resources](#official-resources)
+      2. [External Resources](#external-resources)
+      3. [Tutorials](#tutorials)
+      4. [Official Examples](#official-examples)
+      5. [Examples](#examples)
+      6. [Blog Posts](#blog-posts)
+   2. [Gallery](#gallery)
+   3. [Plugins](#plugins)
+      1. [Official Plugins](#official-plugins)
+      2. [Community Plugins](#community-plugins)
+   4. [Themes](#themes)
+      1. [Official Themes](#official-themes)
+      2. [Community Themes](#community-themes)
+   5. [Projects Using VuePress](#projects-using-vuepress)
+      1. [Official Projects](#official-projects)
+      2. [Blogging](#blogging)
+      3. [Open Source](#open-source)
+      4. [Enterprise Usage](#enterprise-usage)
+   6. [License](#license)
 
 ## Resources
 
@@ -188,6 +189,7 @@
 - [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
+- [vuepress-theme-orbit](https://github.com/adrianhall/vuepress-theme-orbit) - Resume theme to simplify production of an online resume - [Demo](https://themes.3rdwavemedia.com/demo/orbit/)
 
 ## Projects Using VuePress
 
