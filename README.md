@@ -150,6 +150,7 @@
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-music-bar](https://github.com/moecopilot/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar) - :musical_score: :musical_note: A beautiful VuePress music-bar plugin :notes: 
 - [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+- [vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch) - Integrate a relevant an powerful search bar using [MeiliSearch](https://docs.meilisearch.com/)!
 - [vuepress-plugin-redirect-frontmatter](https://github.com/ttskch/vuepress-plugin-redirect-frontmatter) - 🎉VuePress plugin to handle redirection via frontmatter
 - [vuepress-plugin-right-anchor](https://github.com/xuekai-china/vuepress-plugin-right-anchor) - Add anchor navigation bar to the right of the document page written in vuepress
 - [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics) - Baidu tongji analytics plugin
