@@ -191,6 +191,7 @@
 - [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
+- [vuepress-theme-carbon](https://github.com/lupas/vuepress-theme-carbon) - Vuepress default theme with support for Carbon Ads.
 - [vuepress-theme-material-free](https://github.com/gabrielwillemann/vuepress-theme-material-free) - Blog theme inspired in Google Material Design - [Preview](https://sharklabs.com.br/)
 - [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope) - A light vuepress blog / doc theme with lots of enhance modes [Doc DEMO](https://vuepress-theme.mrhope.site/) | [Blog DEMO](https://mrhope.site/)
 - [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
@@ -306,6 +307,8 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
+- [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
 
