@@ -314,6 +314,10 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [PBST Handbook](https://pbst.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [PET Handbook](https://pet.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [TMS Handbook](https://tms.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [PB Website](https://pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
 - [VuePress Homepage](https://github.com/mtobeiyf/vuepress-homepage) - Elegant and friendly homepage (bio, tech portfolio, resume, doc) template
 - [soonspacejs](http://www.xwbuilders.com:9018/soonspacejs/Docs/) - Simple and easy to learn webgl plug-in through threejs.
 - [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
