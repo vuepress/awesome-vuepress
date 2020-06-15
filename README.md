@@ -314,14 +314,12 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [VuePress Homepage](https://github.com/mtobeiyf/vuepress-homepage) - Elegant and friendly homepage (bio, tech portfolio, resume, doc) template
 - [soonspacejs](http://www.xwbuilders.com:9018/soonspacejs/Docs/) - Simple and easy to learn webgl plug-in through threejs.
 - [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
 - [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
-
-
-
 
 ### Enterprise Usage
 
