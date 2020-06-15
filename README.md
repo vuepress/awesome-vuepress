@@ -193,6 +193,7 @@
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
 - [vuepress-theme-note](https://github.com/JackRay-C/vuepress-theme-note) - A vuepress theme for notes [vuepress-theme-note](https://jackray-c.github.io/vuepress-theme-note/)
+- [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀A simple and efficient VuePress knowledge management & blog theme. 知识管理&博客 主题。 [Demo](https://xugaoyi.com/)
 - [vuepress-theme-carbon](https://github.com/lupas/vuepress-theme-carbon) - Vuepress default theme with support for Carbon Ads.
 - [vuepress-theme-material-free](https://github.com/gabrielwillemann/vuepress-theme-material-free) - Blog theme inspired in Google Material Design - [Preview](https://sharklabs.com.br/)
 - [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope) - A light vuepress blog / doc theme with lots of enhance modes [Doc DEMO](https://vuepress-theme.mrhope.site/) | [Blog DEMO](https://mrhope.site/)
