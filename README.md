@@ -150,6 +150,7 @@
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-music-bar](https://github.com/moecopilot/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar) - :musical_score: :musical_note: A beautiful VuePress music-bar plugin :notes: 
 - [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+- [vuepress-plugin-right-anchor](https://github.com/xuekai-china/vuepress-plugin-right-anchor) - Add anchor navigation bar to the right of the document page written in vuepress
 - [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics) - Baidu tongji analytics plugin
 - [vuepress-plugin-toolbar](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-toolbar) - Sidebar display custom toolbar plugin
 - [vuepress-plugin-plausible-analytics](https://github.com/leoloso/vuepress-plugin-plausible-analytics) - Add [Plausible](https://plausible.io) analytics to the VuePress site
@@ -311,6 +312,7 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [soonspacejs](http://www.xwbuilders.com:9018/soonspacejs/Docs/) - Simple and easy to learn webgl plug-in through threejs.
 - [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
 - [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
