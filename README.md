@@ -223,7 +223,7 @@
 - [Ahmad Mostafa](https://ahmadmostafa.com/)
 - [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
 - [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
-
+- [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 
 ### Open Source
 
@@ -306,6 +306,7 @@
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
+
 
 
 
