@@ -66,7 +66,6 @@
 
 ## Gallery
 
-- [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
 - [Vuepress.Tools](https://vuepress.tools) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
@@ -108,13 +107,13 @@
 
 ### Community Plugins
 
-
+- [vuepress-plugin-graysite](https://github.com/zpfz/vuepress-plugin-graysite) - Plug-ins that gray your site for VuePress.(Generally used for Mourning Day)   
 - [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
 - [vuepress-plugin-mailchimp](https://github.com/newsbielt703/vuepress-plugin-mailchimp) - Simplifies subscribing new email addresses to a Mailchimp email list.
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
-- [vuepress-plugin-](https://github.com/rich-lab/vuepress-plugin-schema2md) - A VuePress plugin to help you generate pages via JSON Schema (HMR ✅)
+- [vuepress-plugin-schema2md](https://github.com/rich-lab/vuepress-plugin-schema2md) - A VuePress plugin to help you generate pages via JSON Schema (HMR ✅)
 - [vuepress-plugin-docgen](https://github.com/f3ltron/vuepress-plugin-docgen) - auto docs generation for your components
-- [vuepress-plugin-check-md](https://github.com/f3ltron/vuepress-plugin-check-md) - Check dead links of markdown.
+- [vuepress-plugin-check-md](https://github.com/ulivz/vuepress-plugin-check-md) - Check dead links of markdown.
 - [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for VuePress
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
 - [vuepress-plugin-sitemap](https://github.com/ekoeryanto/vuepress-plugin-sitemap) - Sitemap generator plugin for vuepress.
@@ -150,6 +149,8 @@
 - [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
 - [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
 - [vuepress-plugin-music-bar](https://github.com/moecopilot/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar) - :musical_score: :musical_note: A beautiful VuePress music-bar plugin :notes: 
+- [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+
 
 ## Themes
 
@@ -160,6 +161,7 @@
 
 ### Community Themes
 
+- [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
@@ -184,9 +186,8 @@
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
 - [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
-- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://chenyating.github.io/)
 - [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
-- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A meduim-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
+- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
 
 ## Projects Using VuePress
@@ -215,6 +216,8 @@
 - [维维博客](https://liangwei.link/)
 - [cnguu's blog](https://blog.cnguu.cn/)
 - [Ahmad Mostafa](https://ahmadmostafa.com/)
+- [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
+- [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
 
 
 ### Open Source
@@ -232,7 +235,7 @@
 - [macaca-datahub](https://macacajs.github.io/macaca-datahub/) - Just enjoy the data out-of-the-box.
 - [app-inspector](https://macacajs.github.io/app-inspector/) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically
 - [form-wrapper-js](https://nevoss.github.io/form-wrapper-js/) - A lightweight library that creates forms systems in a convenient and easy way, without dependencies and magic code.
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implememted by Vue
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implemented by Vue
 - [openhab](https://www.openhab.org/docs/) - an open source, technology agnostic home automation platform which runs as the center of your smart home!
 - [ms-design](https://ms-design.github.io/) - Vue components that implement Microsoft Design Language
 - [archcheatsheet](https://archcheatsheet.com/) - Offline dual boot/no desktop environment
@@ -296,6 +299,7 @@
 - [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
 - [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
 - [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
 
 
 ### Enterprise Usage
