@@ -234,7 +234,7 @@
 - [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
 - [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
 - [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
-- [mrsessions blog](https://blog.mrsessions.com)
+- [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
 
 ### Open Source
 
