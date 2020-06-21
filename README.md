@@ -66,7 +66,7 @@
 
 ## Gallery
 
-- [Vuepress.Tools](https://vuepress.tools) - By [@z3by](https://github.com/z3by)
+- [Vuepress Tools](https://z3by.github.io/vuepress-tools) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
 
