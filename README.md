@@ -203,7 +203,7 @@
 - [vuepress-theme-material-free](https://github.com/gabrielwillemann/vuepress-theme-material-free) - Blog theme inspired in Google Material Design - [Preview](https://sharklabs.com.br/)
 - [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope) - A light vuepress blog / doc theme with lots of enhance modes [Doc DEMO](https://vuepress-theme.mrhope.site/) | [Blog DEMO](https://mrhope.site/)
 - [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
-- [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - :book: A VuePress theme inspired by Gitbook [Demo](https://opportunist.luseeds.com)
+- [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
 
 ## Projects Using VuePress
