@@ -327,6 +327,7 @@
 - [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
+- [MyBatis-Plus](https://mybatis.plus/) - An powerful enhanced toolkit of MyBatis for simplify development.
 
 ### Enterprise Usage
 
