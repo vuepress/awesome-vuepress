@@ -205,6 +205,7 @@
 - [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
+- [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
 
 ## Projects Using VuePress
 
@@ -236,6 +237,7 @@
 - [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
 - [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 - [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
+- [Mark's Personal Website](https://jinyaoMa.github.io/vuepress-theme-mustom)
 
 ### Open Source
 
