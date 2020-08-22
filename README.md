@@ -158,6 +158,7 @@
 - [vuepress-plugin-plausible-analytics](https://github.com/leoloso/vuepress-plugin-plausible-analytics) - Add [Plausible](https://plausible.io) analytics to the VuePress site
 - [@kawarimidoll/vuepress-plugin-tailwind](https://github.com/kawarimidoll/vuepress-plugin-tailwind) - A VuePress plugin to use [`tailwindcss`](https://github.com/tailwindcss/tailwindcss) and [`postcss-purgecss`](https://github.com/FullHuman/purgecss) easily
 - [spekulatius/vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress site. Works both on page-by-page levels as well as global.
+- [@adamdehaven/vuepress-plugin-custom-tooltip](https://github.com/adamdehaven/vuepress-plugin-custom-tooltip) - A customizable, reactive, and reusable tooltip component for VuePress that supports multiple use-cases, plugin options & props.
 
 ## Themes
 
