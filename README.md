@@ -34,14 +34,15 @@
 
 ### Official Resources
 
-- [Official Guide](https://vuepress.vuejs.org/guide/)
-- [Config Reference](https://vuepress.vuejs.org/config/)
-- [GitHub Repo](https://github.com/vuejs/vuepress)
-- [Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
+- [Docs - Official Guide](https://vuepress.vuejs.org/guide/)
+- [Docs - Config Reference](https://vuepress.vuejs.org/config/)
+- [Docs - GitHub Repo](https://github.com/vuejs/vuepress)
+- [Docs - Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
+- [Medium - Intro to VuePress 1.x](https://medium.com/@_ulivz/intro-to-vuepress-1-x-7e2b7885f95f)
 
 ### External Resources
 
-- [Working with Ghost and VuePress](https://ghost.org/docs/api/v2/vuepress/)
+- [Working with Ghost and VuePress](https://ghost.org/docs/api/vuepress/)
 
 ### Tutorials
 
@@ -52,11 +53,12 @@
 
 ### Official Examples
 
-> Coming soon...
+- [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)
 
 ### Examples
 
 - [davidangel.net](https://davidangel.net/) - An example of a site running VuePress on Netlify.
+- [vuepress-login](https://terryz.github.io/vuepress-login) - An example for add authorization with [v-dialogs](https://github.com/TerryZ/v-dialogs) on VuePress
 
 ### Blog Posts
 
@@ -64,7 +66,7 @@
 
 ## Gallery
 
-- [vuepress.gallery](https://vuepress.gallery/) - By [@vicbergquist](https://github.com/vicbergquist)
+- [Vuepress Tools](https://z3by.github.io/vuepress-tools) - By [@z3by](https://github.com/z3by)
 
 ## Plugins
 
@@ -84,41 +86,51 @@
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
-**Maintained by [github.com/vuepress](https://github.com/vuepress):**
+**Maintained by [vuepress/vuepress-community](https://github.com/vuepress/vuepress-community):**
 
-- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress.
-- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress.
-- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress.
-- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress.
-- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress.
-- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress.
+- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress
+- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress
+- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress
+- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress
+- [vuepress-plugin-git-log](https://vuepress.github.io/plugins/git-log/) - :floppy_disk: Integrate git logs into VuePress
+- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress
+- [vuepress-plugin-medium-zoom](https://vuepress.github.io/plugins/medium-zoom/) - :mag: Make images zoomable in VuePress
+- [vuepress-plugin-migrate](https://vuepress.github.io/plugins/migrate/) - :paw_prints: Migrate another website to VuePress
+- [vuepress-plugin-named-chunks](https://vuepress.github.io/plugins/named-chunks/) - :name_badge: Generate named chunks in VuePress
+- [vuepress-plugin-nprogress](https://vuepress.github.io/plugins/nprogress/) - :running: Show progress bar in VuePress
+- [vuepress-plugin-redirect](https://vuepress.github.io/plugins/redirect/) - :traffic_light: Handle redirection in VuePress
+- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress
+- [vuepress-plugin-smooth-scroll](https://vuepress.github.io/plugins/smooth-scroll/) - :roller_coaster: Make scrolling smooth in VuePress
+- [vuepress-plugin-table-of-contents](https://vuepress.github.io/plugins/table-of-contents/) - :bookmark: Provides table-of-contents component in VuePress
+- [vuepress-plugin-typescript](https://vuepress.github.io/plugins/typescript/) - :palm_tree: Support TypeScript in VuePress
+- [vuepress-plugin-zooming](https://vuepress.github.io/plugins/zooming/) - :mag: Make images zoomable in VuePress
 
 ### Community Plugins
 
+- [vuepress-plugin-graysite](https://github.com/zpfz/vuepress-plugin-graysite) - Plug-ins that gray your site for VuePress.(Generally used for Mourning Day)
+- [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
+- [vuepress-plugin-mailchimp](https://github.com/newsbielt703/vuepress-plugin-mailchimp) - Simplifies subscribing new email addresses to a Mailchimp email list.
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
+- [vuepress-plugin-schema2md](https://github.com/rich-lab/vuepress-plugin-schema2md) - A VuePress plugin to help you generate pages via JSON Schema (HMR ✅)
 - [vuepress-plugin-docgen](https://github.com/f3ltron/vuepress-plugin-docgen) - auto docs generation for your components
-- [vuepress-plugin-check-md](https://github.com/f3ltron/vuepress-plugin-check-md) - Check dead links of markdown.
+- [vuepress-plugin-check-md](https://github.com/ulivz/vuepress-plugin-check-md) - Check dead links of markdown.
 - [vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for VuePress
 - [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) - Export your VuePress site to a PDF file
 - [vuepress-plugin-sitemap](https://github.com/ekoeryanto/vuepress-plugin-sitemap) - Sitemap generator plugin for vuepress.
 - [vuepress-plugin-seo](https://github.com/lorisleiva/vuepress-plugin-seo) - 🔌 Generate SEO friendly meta header for every page
-- [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
 - [vuepress-plugin-demo-code](https://github.com/BuptStEve/vuepress-plugin-demo-code) - Display your demo and code at the same time with one source code.
 - [@silvanite/vuepress-plugin-markdown-classes](https://github.com/Silvanite/vuepress-plugin-markdown-classes) - Add unique class names to markdown generated html.
 - [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress
 - [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component
 - [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites
-- [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX
 - [vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) reading-time plugin to display how long a page takes to read
 - [vuepress-plugin-minimal-analytics](https://github.com/webmasterish/vuepress-plugin-minimal-analytics) - Minimal Google Analytics plugin for VuePress
 - [vuepress-plugin-autometa](https://github.com/webmasterish/vuepress-plugin-autometa) - Auto meta tags plugin for VuePress
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink
-- [vuepress-plugin-smooth-scroll](https://github.com/meteorlxy/vuepress-plugin-smooth-scroll) - Vuepress plugin for smooth scrolling
 - [vuepress-plugin-pangu](https://github.com/Shigma/vuepress-plugin-pangu) - A VuePress plugin which automatically inserts whitespace between CJK and half-width characters in markdown files for better readability
 - [@goy/vuepress-plugin-svg-icons](https://github.com/ntnyq/vuepress-plugin-svg-icons) - A VuePress plugin for managing svg icons based on svg sprite icon.
-- [vuepress-plugin-migrate](https://github.com/Shigma/vuepress-plugin-migrate) - A VuePress plugin which migrates a website to VuePress
 - [vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs
 - [vuepress-plugin-baidu-autopush](https://github.com/IOriens/vuepress-plugin-baidu-autopush) - Inject Baidu url-auto-push script to optimize your site for Baidu SEO.
 - [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/) - markdown custom container to display content in tabs from [Element UI](https://github.com/ElemeFE/element)
@@ -130,8 +142,25 @@
 - [vuepress-plugin-gitalk-maker](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/) - modern comment component, base on [Gitalk](https://github.com/gitalk/gitalk) [preview](https://xxholly32.github.io/vuepress-plugin-gitalk-maker/guide/)
 - [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy) - automatically add copy buttons to all code blocks
 - [vuepress-plugin-img-lazy](https://github.com/tolking/vuepress-plugin-img-lazy) - A vuepress plugin to better supporting image lazy loading
-- [vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d) - VuePress集成Live2D看板娘 Live2D plugin for VuePress.
-- [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - VuePress回到页首插件Plus back-to-top plus plugin for VuePress.
+- [vuepress-plugin-merge-pages](https://github.com/vinicius73/vuepress-plugin-merge-pages) - Merge markdown files in a single markdown
+- [vuepress-plugin-authors](https://github.com/z3by/vuepress-plugin-authors) - :writing_hand: Get all the authors of a md file in the $page object
+- [vuepress-plugin-catalog-graph](https://github.com/ludanxer/catalog-graph) A network graph for your VuePress' documentation
+- [vuepress-plugin-glossary](https://www.npmjs.com/package/vuepress-plugin-glossary) - :book: 📚 Glossary implementation helping to establish a ubiquitous language within the project
+- [vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - ✨ extend elementui base on markdown-it-container
+- [vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar) - A vuepress plugin to automatically generate sidebars
+- [vuepress-plugin-music-bar](https://github.com/moecopilot/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar) - :musical_score: :musical_note: A beautiful VuePress music-bar plugin :notes:
+- [vuepress-plugin-smartlook](https://github.com/webkitty/vuepress-plugin-smartlook) - A vuepress plugin integrate [Smartlook](https://smartlook.com) recording & analytics
+- [vuepress-plugin-meilisearch](https://github.com/meilisearch/vuepress-plugin-meilisearch) - Integrate a relevant an powerful search bar using [MeiliSearch](https://docs.meilisearch.com/)!
+- [vuepress-plugin-redirect-frontmatter](https://github.com/ttskch/vuepress-plugin-redirect-frontmatter) - 🎉VuePress plugin to handle redirection via frontmatter
+- [vuepress-plugin-right-anchor](https://github.com/xuekai-china/vuepress-plugin-right-anchor) - Add anchor navigation bar to the right of the document page written in vuepress
+- [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics) - Baidu tongji analytics plugin
+- [vuepress-plugin-toolbar](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-toolbar) - Sidebar display custom toolbar plugin
+- [vuepress-plugin-plausible-analytics](https://github.com/leoloso/vuepress-plugin-plausible-analytics) - Add [Plausible](https://plausible.io) analytics to the VuePress site
+- [@kawarimidoll/vuepress-plugin-tailwind](https://github.com/kawarimidoll/vuepress-plugin-tailwind) - A VuePress plugin to use [`tailwindcss`](https://github.com/tailwindcss/tailwindcss) and [`postcss-purgecss`](https://github.com/FullHuman/purgecss) easily
+- [spekulatius/vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress site. Works both on page-by-page levels as well as global.
+- [vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d) - 😎 VuePress集成Live2D看板娘. | Live2D plugin for VuePress.
+- [vuepress-plugin-mygitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk) - 😇 VuePress集成Gitalk. | Gitalk plugin for VuePress.
+- [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - ☝️ VuePress回到页首插件Plus. | back-to-top plus plugin for VuePress.
 
 ## Themes
 
@@ -142,12 +171,13 @@
 
 ### Community Themes
 
+- [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
+- [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - ✨ A blog theme for vuepress
-- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 Vuepress Theme - Meteorlxy
+- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - 💖 VuePress Blog Theme - Meteorlxy
 - [vuepress-theme-macgs](https://github.com/EasyHexo/vuepress-theme-macgs) - :dizzy: A vuepress theme for [easyhexo.com](https://easyhexo.com)
-- [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering
 - [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple) - ✏️ Very Simple Blog Theme for VuePress
 - [vuepress-theme-melody](https://github.com/Molunerfinn/vuepress-theme-melody) - A simple & beautiful blog theme for vuepress. https://molunerfinn.com/hexo-theme-melody-doc/
 - [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - :package::memo::art: A api-friendly theme for VuePress. https://blog.sqrtthree.com/vuepress-theme-api/
@@ -157,7 +187,28 @@
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - A technical documentation / API reference theme for VuePress. https://docs.craftcms.com/
 - [vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume) - 🐈 Write and generate a markdown resume by VuePress.
 - [vuepress-theme-default-prefers-color-scheme](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme) - add dark theme for vuepress default theme, base on prefers-color-scheme [preview](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
-- [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Preview](https://zhousiwei.gitee.io/ibooks/)
+- [vuepress-theme-yur](https://github.com/cnguu/vuepress-theme-yur) - :revolving_hearts: A minimalistic but not simple blog theme by [cnguu](https://github.com/cnguu/) - [Preview](https://blog.cnguu.cn/)
+- [vuepress-theme-modern-blog](https://github.com/z3by/vuepress-theme-modern-blog) - 💖 Vuepress Blog Modern Theme [Demo](https://vp-modern.z3by.com/)
+- [vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress theme that supports a dark theme, multiple color themes, and other useful features.
+- [vuepress-theme-seeker](https://github.com/wensonsmith/vuepress-theme-seeker) - 🌈 A colorful and simple blog theme  - https://iwenson.com
+- [vuepress-theme-onen](https://github.com/Veminem/vuepress-theme-oneN) - 🎈 A vuepress theme for oneN - [Preview](https://vincenthy.site)
+- [vuepress-theme-typewriter](https://github.com/mAKEkr/vuepress-theme-typewriter) - Blog theme focusing on Korean Typography. - [Preview](https://ake.kr)
+- [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
+- [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
+- [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
+- [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
+- [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
+- [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
+- [vuepress-theme-blog-vuetify](https://github.com/ttskch/vuepress-theme-blog-vuetify/) - 💥The world's most simple, beautiful and customizable 2 columns VuePress blog theme built with Vuetify [Demo](https://vuepress-theme-blog-vuetify.ttskch.com/)
+- [vuepress-theme-note](https://github.com/JackRay-C/vuepress-theme-note) - A vuepress theme for notes [vuepress-theme-note](https://jackray-c.github.io/vuepress-theme-note/)
+- [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀A simple and efficient VuePress knowledge management & blog theme. 知识管理&博客 主题。 [Demo](https://xugaoyi.com/)
+- [vuepress-theme-carbon](https://github.com/lupas/vuepress-theme-carbon) - Vuepress default theme with support for Carbon Ads.
+- [vuepress-theme-material-free](https://github.com/gabrielwillemann/vuepress-theme-material-free) - Blog theme inspired in Google Material Design - [Preview](https://sharklabs.com.br/)
+- [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope) - A light vuepress blog / doc theme with lots of enhance modes [Doc DEMO](https://vuepress-theme.mrhope.site/) | [Blog DEMO](https://mrhope.site/)
+- [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
+- [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
+- [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
+- [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 
 ## Projects Using VuePress
 
@@ -181,6 +232,14 @@
 - [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
 - [Nobi.dev (VuePress with AMP)](https://nobi.dev/)
 - [Howar31 Blog (VuePress with GitLab Pages)](https://blog.howar31.com/)
+- [meteorlxy](https://www.meteorlxy.cn/)
+- [维维博客](https://liangwei.link/)
+- [cnguu's blog](https://blog.cnguu.cn/)
+- [Ahmad Mostafa](https://ahmadmostafa.com/)
+- [znote (VuePress with GitHub Pages)](https://zpj80231.github.io/znote/)
+- [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
+- [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
+- [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
 
 ### Open Source
 
@@ -197,7 +256,7 @@
 - [macaca-datahub](https://macacajs.github.io/macaca-datahub/) - Just enjoy the data out-of-the-box.
 - [app-inspector](https://macacajs.github.io/app-inspector/) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically
 - [form-wrapper-js](https://nevoss.github.io/form-wrapper-js/) - A lightweight library that creates forms systems in a convenient and easy way, without dependencies and magic code.
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implememted by Vue
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - A simple and practical CMS implemented by Vue
 - [openhab](https://www.openhab.org/docs/) - an open source, technology agnostic home automation platform which runs as the center of your smart home!
 - [ms-design](https://ms-design.github.io/) - Vue components that implement Microsoft Design Language
 - [archcheatsheet](https://archcheatsheet.com/) - Offline dual boot/no desktop environment
@@ -236,7 +295,7 @@
 - [d2-daily](https://daily.fairyever.com/) - D2 日报。
 - [SorryPress](https://github.com/fritx/SorryPress) - Vuepress version of [_xtyxtyx/sorry_](https://github.com/xtyxtyx/sorry)
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
-- [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
+- [vssue](https://vssue.js.org) - :mailbox: A Vue-powered Issue-based Comment Plugin
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
 - [mtgjson](https://mtgjson.com) - An open‐source project that catalogues all Magic: The Gathering cards in a portable format.
 - [Leon](https://docs.getleon.ai) - 🧠 Your open-source personal assistant.
@@ -250,12 +309,35 @@
 - [SiteWhere Documentation](https://sitewhere.io/docs/2.0.0/) - [SiteWhere](https://sitewhere.io/en/) is the open platform for the Internet of Things. [Source](https://github.com/sitewhere/sitewhere-documentation).
 - [Pomerium](https://www.pomerium.io) - Pomerium is the [open-source](https://github.com/pomerium/pomerium) identity-aware access proxy.
 - [Wasabi Wallet](https://docs.wasabiwallet.io) – An archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop.
-- [試毅-思伟_技术笔记](https://zhousiwei.gitee.io/ibooks/) – VuePress记录技术开发笔记
+- [kriry开发者网络](https://dev.kriry.com/) -  kriry开发者网络 (kriry developer net).
+- [GROWI Docs](https://docs.growi.org/) - [Open Source](https://github.com/weseek/growi) Markdown x Wiki. Real-time preview on left and right screens is possible.
+- [Java 全栈知识体系](https://www.pdai.tech/) - Java 全栈知识体系 (Java full stack knowledge system).
+- [MeiliSearch](https://docs.meilisearch.com/) - [Open Source](https://github.com/meilisearch/MeiliSearch) instant search engine
+- [DBKangaroo](https://dbkangaroo.github.io/) - Database admin and management tool for popular DBMS
+- [LLStack](https://www.llstack.com/) - 轻量、高性能的 (Open)LiteSpeed+PHP+MySQL 运行环境
+- [SuperAgent 中文文档](https://superagent.org.cn) - SuperAgent 中文文档
+- [Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com)
+- [Open Source](https://github.com/moonlightwork/remote-work-encyclopedia) guide to remote work
+- [Vuepress.tools](https://vuepress.tools/) - A Vuepress Awesome tools list.
+- [Azure中文精选](https://azureselected.com/) - Microsoft Azure developer content localization resources.
+- [PBST Handbook](https://pbst.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [PET Handbook](https://pet.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [TMS Handbook](https://tms.pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [PB Website](https://pinewood-builders.com/) - [Open Source](https://gitlab.com/pinewood-builders/)
+- [VuePress Homepage](https://github.com/mtobeiyf/vuepress-homepage) - Elegant and friendly homepage (bio, tech portfolio, resume, doc) template
+- [soonspacejs](http://www.xwbuilders.com:9018/soonspacejs/Docs/) - Simple and easy to learn webgl plug-in through threejs.
+- [@nuxtjs/firebase Docs](https://firebase.nuxtjs.org/) - Documentation for the Firebase module for Nuxt.
+- [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
+- [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
+- [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
+- [試毅-思伟_技术笔记](https://zhousiwei.gitee.io/ibooks/) – 🎉🎉🎉 VuePress记录技术开发笔记
 
 ### Enterprise Usage
 
 - Alibaba
 - Ant Financial
+- Tencent
+- BriteCore
 
 ## License
 
