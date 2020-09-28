@@ -237,7 +237,6 @@
 - [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
 - [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 - [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
-- [Mark's Personal Website](https://jinyaoMa.github.io/vuepress-theme-mustom)
 
 ### Open Source
 
