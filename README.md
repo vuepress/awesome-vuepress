@@ -206,6 +206,7 @@
 - [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
+- [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
 
 ## Projects Using VuePress
 
@@ -328,6 +329,7 @@
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
 - [MyBatis-Plus](https://mybatis.plus/) - An powerful enhanced toolkit of MyBatis for simplify development.
+- [PHPScraper](https://phpscraper.de) - Scraper library for PHP using VuePress for its documentation.
 
 ### Enterprise Usage
 
