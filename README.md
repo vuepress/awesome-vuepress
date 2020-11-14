@@ -158,6 +158,7 @@
 - [vuepress-plugin-plausible-analytics](https://github.com/leoloso/vuepress-plugin-plausible-analytics) - Add [Plausible](https://plausible.io) analytics to the VuePress site
 - [@kawarimidoll/vuepress-plugin-tailwind](https://github.com/kawarimidoll/vuepress-plugin-tailwind) - A VuePress plugin to use [`tailwindcss`](https://github.com/tailwindcss/tailwindcss) and [`postcss-purgecss`](https://github.com/FullHuman/purgecss) easily
 - [spekulatius/vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress site. Works both on page-by-page levels as well as global.
+- [vuepress-plugin-lastest-version](https://github.com/yangyang0507/vuepress-plugin-lastest-version) - Get lastest version of artifact for your vuepress doc.
 - [spekulatius/vuepress-plugin-umami](https://github.com/spekulatius/vuepress-plugin-umami) - allows to use privacy-friendly [Umami Analytics](https://github.com/mikecao/umami) instead of e.g. Google Analytics.
 
 ## Themes
@@ -206,6 +207,7 @@
 - [vuepress-theme-solarized](https://github.com/Puritanic/vuepress-theme-solarized) - Solarized Dark and Light themes for your Vuepress docs [Demo](https://puritanic.github.io/CompSci/)
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
+- [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
 
 ## Projects Using VuePress
 
@@ -327,6 +329,7 @@
 - [Firewings Docs](https://firewings.netlify.app/) - Documentation for the Firewings module for Vue.
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
+- [PHPScraper](https://phpscraper.de) - Scraper library for PHP using VuePress for its documentation.
 
 ### Enterprise Usage
 
