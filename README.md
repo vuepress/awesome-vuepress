@@ -160,6 +160,7 @@
 - [spekulatius/vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress site. Works both on page-by-page levels as well as global.
 - [vuepress-plugin-lastest-version](https://github.com/yangyang0507/vuepress-plugin-lastest-version) - Get lastest version of artifact for your vuepress doc.
 - [spekulatius/vuepress-plugin-umami](https://github.com/spekulatius/vuepress-plugin-umami) - allows to use privacy-friendly [Umami Analytics](https://github.com/mikecao/umami) instead of e.g. Google Analytics.
+- [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
 
 ## Themes
 
