@@ -88,22 +88,22 @@
 
 **Maintained by [vuepress/vuepress-community](https://github.com/vuepress/vuepress-community):**
 
-- [vuepress-plugin-clean-urls](https://vuepress.github.io/plugins/clean-urls/) - :droplet: Use clean urls in VuePress
-- [vuepress-plugin-container](https://vuepress.github.io/plugins/container/) - :package: Use markdown containers in VuePress
-- [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress
-- [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress
-- [vuepress-plugin-git-log](https://vuepress.github.io/plugins/git-log/) - :floppy_disk: Integrate git logs into VuePress
-- [vuepress-plugin-mathjax](https://vuepress.github.io/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress
-- [vuepress-plugin-medium-zoom](https://vuepress.github.io/plugins/medium-zoom/) - :mag: Make images zoomable in VuePress
-- [vuepress-plugin-migrate](https://vuepress.github.io/plugins/migrate/) - :paw_prints: Migrate another website to VuePress
-- [vuepress-plugin-named-chunks](https://vuepress.github.io/plugins/named-chunks/) - :name_badge: Generate named chunks in VuePress
-- [vuepress-plugin-nprogress](https://vuepress.github.io/plugins/nprogress/) - :running: Show progress bar in VuePress
-- [vuepress-plugin-redirect](https://vuepress.github.io/plugins/redirect/) - :traffic_light: Handle redirection in VuePress
-- [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve/) - :key: Serve generated files in VuePress
-- [vuepress-plugin-smooth-scroll](https://vuepress.github.io/plugins/smooth-scroll/) - :roller_coaster: Make scrolling smooth in VuePress
-- [vuepress-plugin-table-of-contents](https://vuepress.github.io/plugins/table-of-contents/) - :bookmark: Provides table-of-contents component in VuePress
-- [vuepress-plugin-typescript](https://vuepress.github.io/plugins/typescript/) - :palm_tree: Support TypeScript in VuePress
-- [vuepress-plugin-zooming](https://vuepress.github.io/plugins/zooming/) - :mag: Make images zoomable in VuePress
+- [vuepress-plugin-clean-urls](https://vuepress-community.netlify.app/plugins/clean-urls/) - :droplet: Use clean urls in VuePress
+- [vuepress-plugin-container](https://vuepress-community.netlify.app/plugins/container/) - :package: Use markdown containers in VuePress
+- [vuepress-plugin-copyright](https://vuepress-community.netlify.app/plugins/copyright/) - :clipboard: Handle copy behaviors in VuePress
+- [vuepress-plugin-dehydrate](https://vuepress-community.netlify.app/plugins/dehydrate/) - :fire: Dehydrate HTML files in VuePress
+- [vuepress-plugin-git-log](https://vuepress-community.netlify.app/plugins/git-log/) - :floppy_disk: Integrate git logs into VuePress
+- [vuepress-plugin-mathjax](https://vuepress-community.netlify.app/plugins/mathjax/) - :page_with_curl: Use TeX syntax in VuePress
+- [vuepress-plugin-medium-zoom](https://vuepress-community.netlify.app/plugins/medium-zoom/) - :mag: Make images zoomable in VuePress
+- [vuepress-plugin-migrate](https://vuepress-community.netlify.app/plugins/migrate/) - :paw_prints: Migrate another website to VuePress
+- [vuepress-plugin-named-chunks](https://vuepress-community.netlify.app/plugins/named-chunks/) - :name_badge: Generate named chunks in VuePress
+- [vuepress-plugin-nprogress](https://vuepress-community.netlify.app/plugins/nprogress/) - :running: Show progress bar in VuePress
+- [vuepress-plugin-redirect](https://vuepress-community.netlify.app/plugins/redirect/) - :traffic_light: Handle redirection in VuePress
+- [vuepress-plugin-serve](https://vuepress-community.netlify.app/plugins/serve/) - :key: Serve generated files in VuePress
+- [vuepress-plugin-smooth-scroll](https://vuepress-community.netlify.app/plugins/smooth-scroll/) - :roller_coaster: Make scrolling smooth in VuePress
+- [vuepress-plugin-table-of-contents](https://vuepress-community.netlify.app/plugins/table-of-contents/) - :bookmark: Provides table-of-contents component in VuePress
+- [vuepress-plugin-typescript](https://vuepress-community.netlify.app/plugins/typescript/) - :palm_tree: Support TypeScript in VuePress
+- [vuepress-plugin-zooming](https://vuepress-community.netlify.app/plugins/zooming/) - :mag: Make images zoomable in VuePress
 
 ### Community Plugins
 
