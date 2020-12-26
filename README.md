@@ -23,6 +23,8 @@
 - [Themes](#themes)
   - [Official Themes](#official-themes)
   - [Community Themes](#community-themes)
+- [Deploy](#deploy)
+  - [GitHub Action](#gitHub-action)
 - [Projects Using VuePress](#projects-using-vuepress)
   - [Official Projects](#official-projects)
   - [Blogging](#blogging)
@@ -208,6 +210,12 @@
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
 - [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
+
+## Deploy
+
+### GitHub Action
+
+- [vuepress-deploy](https://github.com/jenkey2011/vuepress-deploy) - A GitHub Action to build and deploy Vuepress sites to GitHub Pages
 
 ## Projects Using VuePress
 
