@@ -344,6 +344,7 @@
 - [試毅-思伟_技术笔记](https://zhousiwei.gitee.io/ibooks/) – 🎉🎉🎉 VuePress记录技术开发笔记
 - [MyBatis-Plus](https://mybatis.plus/) - An powerful enhanced toolkit of MyBatis for simplify development.
 - [VIZ Docs](https://docs.viz.cx) - VIZ blockchain documentation.
+- [vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) - Documentation for vue-grid-layout, a grid layout system for Vue.js
 
 ### Enterprise Usage
 
