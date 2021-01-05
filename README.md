@@ -162,6 +162,7 @@
 - [spekulatius/vuepress-plugin-umami](https://github.com/spekulatius/vuepress-plugin-umami) - allows to use privacy-friendly [Umami Analytics](https://github.com/mikecao/umami) instead of e.g. Google Analytics.
 - [vuepress-plugin-vue-demo](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vue-demo) - Write vue demo in markdown like elementui documents
 - [vuepress-plugin-vuese-docs](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vuese-docs) - Automatic generation of component documentation via code comments and demo examples
+- [vuepress-plugin-goatcounter](https://github.com/srcrs/vuepress-plugin-goatcounter) - Easy web analytics. No tracking of personal data
 
 ## Themes
 
