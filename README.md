@@ -342,6 +342,7 @@
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
 - [PHPScraper](https://phpscraper.de) - Scraper library for PHP using VuePress for its documentation.
 - [試毅-思伟_技术笔记](https://zhousiwei.gitee.io/ibooks/) – 🎉🎉🎉 VuePress记录技术开发笔记
+- [MyBatis-Plus](https://mybatis.plus/) - An powerful enhanced toolkit of MyBatis for simplify development.
 
 ### Enterprise Usage
 
