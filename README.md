@@ -213,6 +213,7 @@
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - 📘 A VuePress theme inspired by Gitbook [Demo](https://vuepress-theme-book.netlify.app)
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
 - [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
+- [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
 
 ## Projects Using VuePress
 
