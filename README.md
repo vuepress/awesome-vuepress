@@ -164,6 +164,7 @@
 - [vuepress-plugin-vue-demo](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vue-demo) - Write vue demo in markdown like elementui documents
 - [vuepress-plugin-vuese-docs](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vuese-docs) - Automatic generation of component documentation via code comments and demo examples
 - [vuepress-plugin-goatcounter](https://github.com/srcrs/vuepress-plugin-goatcounter) - Easy web analytics. No tracking of personal data
+- [@adamdehaven/vuepress-plugin-custom-tooltip](https://github.com/adamdehaven/vuepress-plugin-custom-tooltip) - A customizable, reactive, and reusable tooltip component for VuePress that supports multiple use-cases, plugin options & props.
 
 ## Themes
 
