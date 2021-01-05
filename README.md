@@ -169,6 +169,7 @@
 - [vuepress-plugin-mygitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk) - 😇 VuePress集成Gitalk. | Gitalk plugin for VuePress.
 - [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - ☝️ VuePress回到页首插件Plus. | back-to-top plus plugin for VuePress.
 - [@xiaopanda/vuepress-plugin-code-copy](https://github.com/panxingcheng/vuepress-plugin-code-copy) - A VuePress plugin that copies code blocks with one click.
+- [vuepress-plugin-last-reading](https://github.com/tolking/vuepress-plugin-last-reading) - A vuepress plugin to record the last reading.
 
 ## Themes
 
