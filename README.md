@@ -171,6 +171,7 @@
 - [@xiaopanda/vuepress-plugin-code-copy](https://github.com/panxingcheng/vuepress-plugin-code-copy) - A VuePress plugin that copies code blocks with one click.
 - [vuepress-plugin-last-reading](https://github.com/tolking/vuepress-plugin-last-reading) - A vuepress plugin to record the last reading.
 - [vuepress-plugin-qrocde](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
+- [vuepress-plugin-child-toc](https://github.com/tchiotludo/vuepress-plugin-child-toc) - A table of contents that displayed all child pages.
 
 ## Themes
 
