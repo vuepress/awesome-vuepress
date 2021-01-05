@@ -204,7 +204,7 @@
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
 - [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
-- [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
+- [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for custom fonts, and light and dark themes. [Demo](https://succinct.mflash.dev/)
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
 - [vuepress-theme-blog-vuetify](https://github.com/ttskch/vuepress-theme-blog-vuetify/) - 💥The world's most simple, beautiful and customizable 2 columns VuePress blog theme built with Vuetify [Demo](https://vuepress-theme-blog-vuetify.ttskch.com/)
