@@ -256,6 +256,7 @@
 - [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 - [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
 - [wxsm's space](https://wxsm.space)
+- [NyanDev Blog (VuePress x Github Pages x Cloudflare)](https://blog.nyandev.id)
 
 ### Open Source
 
