@@ -261,6 +261,7 @@
 
 > Documentation websites that use VuePress.
 
+- [CodeceptJS](https://codecept.io/) - CodeceptJS ‐ supercharged End 2 End Testing
 - [discordjs.guide](https://discordjs.guide/) - The official guide for discord.js, created and maintained by core members of its community.
 - [vue-i18n](https://kazupon.github.io/vue-i18n/) - Vue I18n is internationalization plugin for Vue.js
 - [vuesax](https://lusaxweb.github.io/vuesax/) - New Framework Components for Vue.js 2
