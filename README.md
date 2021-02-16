@@ -170,10 +170,11 @@
 - [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - ☝️ VuePress回到页首插件Plus. | back-to-top plus plugin for VuePress.
 - [@xiaopanda/vuepress-plugin-code-copy](https://github.com/panxingcheng/vuepress-plugin-code-copy) - A VuePress plugin that copies code blocks with one click.
 - [vuepress-plugin-last-reading](https://github.com/tolking/vuepress-plugin-last-reading) - A vuepress plugin to record the last reading.
-- [vuepress-plugin-qrocde](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
+- [vuepress-plugin-qrcode](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
 - [vuepress-plugin-child-toc](https://github.com/tchiotludo/vuepress-plugin-child-toc) - A table of contents that displayed all child pages.
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
-- [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel 
+- [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
+- [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 
 ## Themes
 
@@ -224,6 +225,7 @@
 - [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
 - [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
+- [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
 
 ## Projects Using VuePress
 
@@ -257,11 +259,13 @@
 - [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
 - [wxsm's space](https://wxsm.space)
 - [Reflections (VuePress with Github Pages)](https://christofer.rocks)
+- [1980's Maker](https://80shuo.com)
 
 ### Open Source
 
 > Documentation websites that use VuePress.
 
+- [CodeceptJS](https://codecept.io/) - CodeceptJS ‐ supercharged End 2 End Testing
 - [discordjs.guide](https://discordjs.guide/) - The official guide for discord.js, created and maintained by core members of its community.
 - [vue-i18n](https://kazupon.github.io/vue-i18n/) - Vue I18n is internationalization plugin for Vue.js
 - [vuesax](https://lusaxweb.github.io/vuesax/) - New Framework Components for Vue.js 2
