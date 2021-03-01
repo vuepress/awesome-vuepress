@@ -68,6 +68,7 @@
 ## Gallery
 
 - [Vuepress Tools](https://z3by.github.io/vuepress-tools) - By [@z3by](https://github.com/z3by)
+- [Vuepress Gallery](https://80shuo.com/vuepress-theme/) - By [@80maker](https://github.com/80maker)
 
 ## Plugins
 
