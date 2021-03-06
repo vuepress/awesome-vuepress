@@ -175,6 +175,7 @@
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
+- [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 
 ## Themes
 
