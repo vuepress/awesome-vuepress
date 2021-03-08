@@ -20,6 +20,7 @@
 - [Plugins](#plugins)
   - [Official Plugins](#official-plugins)
   - [Community Plugins](#community-plugins)
+- [Utilities](#utilities)
 - [Themes](#themes)
   - [Official Themes](#official-themes)
   - [Community Themes](#community-themes)
@@ -175,6 +176,10 @@
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
+
+## Utilities
+
+- [vuepress-bar](https://github.com/ozum/vuepress-bar) - VuePress sidebar and navbar generator based on file and directory structure.
 
 ## Themes
 
