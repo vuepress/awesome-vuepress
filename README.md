@@ -9,26 +9,27 @@
 
 > A curated list of awesome things related to VuePress
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Tutorials](#tutorials)
-  - [Official Examples](#official-examples)
-  - [Examples](#examples)
-  - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)
-- [Plugins](#plugins)
-  - [Official Plugins](#official-plugins)
-  - [Community Plugins](#community-plugins)
-- [Themes](#themes)
-  - [Official Themes](#official-themes)
-  - [Community Themes](#community-themes)
-- [Projects Using VuePress](#projects-using-vuepress)
-  - [Official Projects](#official-projects)
-  - [Blogging](#blogging)
-  - [Open Source](#open-source)
-  - [Enterprise Usage](#enterprise-usage)
-- [License](#license)
+- [Awesome VuePress ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuepress-)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Tutorials](#tutorials)
+    - [Official Examples](#official-examples)
+    - [Examples](#examples)
+    - [Blog Posts](#blog-posts)
+  - [Gallery](#gallery)
+  - [Plugins](#plugins)
+    - [Official Plugins](#official-plugins)
+    - [Community Plugins](#community-plugins)
+  - [Themes](#themes)
+    - [Official Themes](#official-themes)
+    - [Community Themes](#community-themes)
+  - [Projects Using VuePress](#projects-using-vuepress)
+    - [Official Projects](#official-projects)
+    - [Blogging](#blogging)
+    - [Open Source](#open-source)
+    - [Enterprise Usage](#enterprise-usage)
+  - [License](#license)
 
 ## Resources
 
@@ -175,6 +176,7 @@
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
+- [vuepress-plugin-side-anchor](https://github.com/LRCong/vuepress-plugin-side-anchor) - Add side anchor to vuePress automatically.
 
 ## Themes
 
