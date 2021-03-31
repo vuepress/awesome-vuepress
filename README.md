@@ -177,6 +177,7 @@
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 - [vuepress-plugin-roughviz](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/roughviz) - A plugin for adding [roughViz.js](https://github.com/jwilber/roughViz) to VuePress.
 - [vuepress-plugin-chart](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart) - A plugin for adding [Chart.js](https://www.chartjs.org/) to VuePress.
+- [vuepress-plugin-markmap](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap) - A plugin for adding [markmap](https://github.com/gera2ld/markmap) to VuePress.
 
 ## Themes
 
