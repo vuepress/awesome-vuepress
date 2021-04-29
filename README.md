@@ -9,26 +9,27 @@
 
 > A curated list of awesome things related to VuePress
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Tutorials](#tutorials)
-  - [Official Examples](#official-examples)
-  - [Examples](#examples)
-  - [Blog Posts](#blog-posts)
-- [Gallery](#gallery)
-- [Plugins](#plugins)
-  - [Official Plugins](#official-plugins)
-  - [Community Plugins](#community-plugins)
-- [Themes](#themes)
-  - [Official Themes](#official-themes)
-  - [Community Themes](#community-themes)
-- [Projects Using VuePress](#projects-using-vuepress)
-  - [Official Projects](#official-projects)
-  - [Blogging](#blogging)
-  - [Open Source](#open-source)
-  - [Enterprise Usage](#enterprise-usage)
-- [License](#license)
+- [Awesome VuePress ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuepress-)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Tutorials](#tutorials)
+    - [Official Examples](#official-examples)
+    - [Examples](#examples)
+    - [Blog Posts](#blog-posts)
+  - [Gallery](#gallery)
+  - [Plugins](#plugins)
+    - [Official Plugins](#official-plugins)
+    - [Community Plugins](#community-plugins)
+  - [Themes](#themes)
+    - [Official Themes](#official-themes)
+    - [Community Themes](#community-themes)
+  - [Projects Using VuePress](#projects-using-vuepress)
+    - [Official Projects](#official-projects)
+    - [Blogging](#blogging)
+    - [Open Source](#open-source)
+    - [Enterprise Usage](#enterprise-usage)
+  - [License](#license)
 
 ## Resources
 
@@ -360,6 +361,7 @@
 - [vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) - Documentation for vue-grid-layout, a grid layout system for Vue.js
 - [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 - [line-bot-sdk-nodejs](https://line.github.io/line-bot-sdk-nodejs) - LINE Messaging API SDK for nodejs
+- [Bricks](https://bricks.stefanobartoletti.it) - A modular WordPress starter theme powered by Bootstrap and Gulp ([Open Source](https://github.com/stefanobartoletti/bricks-docs))
 
 ### Enterprise Usage
 
