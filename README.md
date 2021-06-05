@@ -173,6 +173,7 @@
 - [vuepress-plugin-qrcode](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
 - [vuepress-plugin-child-toc](https://github.com/tchiotludo/vuepress-plugin-child-toc) - A table of contents that displayed all child pages.
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
+- [vuepress-plugin-auto-crosslinker](https://github.com/tg44/vuepress-plugin-auto-crosslinker) - Automatically cross-links pages at first text appearance, wiki style
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 
