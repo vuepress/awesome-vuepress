@@ -360,6 +360,7 @@
 - [vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) - Documentation for vue-grid-layout, a grid layout system for Vue.js
 - [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 - [line-bot-sdk-nodejs](https://line.github.io/line-bot-sdk-nodejs) - LINE Messaging API SDK for nodejs
+- [Typesense](https://typesense.org/docs/) - An open source search alternative to Algolia.
 
 ### Enterprise Usage
 
