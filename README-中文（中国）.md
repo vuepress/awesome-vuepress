@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <br>
   <img width="400" src="./logo.png" alt="logo of vue-awesome repository">
@@ -8,6 +10,12 @@
 # Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to VuePress
+>
+> 
+
+> ## 注意
+>
+> 此翻译目前有待完善
 
 - [资源](#资源)
   - [官方资源](#官方资源)
@@ -15,36 +23,36 @@
   - [教程](#教程)
   - [官方实例](#官方实例)
   - [实例](#实例)
-  - [博客发布](#博客发布)
+  - [博客文章](#博客文章)
 - [画廊](#画廊)
 - [插件](#插件)
-  - [官方插件](#official-plugins)
+  - [官方插件](#官方插件)
   - [社区插件](#社区插件)
 - [主题](#主题)
   - [官方主题](#官方主题)
   - [社区主题](#社区主题)
 - [使用VuePress项目](#使用VuePress项目)
   - [官方项目](#官方项目)
-  - [博客](#博客)
-  - [开放源代码](#开放源代码)
-  - [企业使用](#企业使用)
+  - [写博客](#写博客)
+  - [开源](#开源)
+  - [企业用途](#企业用途)
 - [许可证](#许可证)
 
 ## 资源
 
 ### 官方资源
 
-- [文档——官方指南](https://vuepress.vuejs.org/zh/guide/)
-- [Docs - Config Reference](https://vuepress.vuejs.org/config/)
-- [Docs - GitHub Repo](https://github.com/vuejs/vuepress)
-- [Docs - Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
+- [文档——指南](https://vuepress.vuejs.org/zh/guide/)
+- [文档——配置](https://vuepress.vuejs.org/zh/config/)
+- [文档——Github仓库](https://github.com/vuejs/vuepress)
+- [文档——发行记录](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
 - [Medium - Intro to VuePress 1.x](https://medium.com/@_ulivz/intro-to-vuepress-1-x-7e2b7885f95f)
 
-### External Resources
+### 扩展资源
 
 - [Working with Ghost and VuePress](https://ghost.org/docs/api/vuepress/)
 
-### Tutorials
+### 教程
 
 - [20180518 VueNYC - Introduction to VuePress - Evan You](https://www.youtube.com/watch?v=lIv1ItUzktc)
 - [20190107 Twitch Session: Trying to Write a VuePress Plugin](https://www.youtube.com/watch?v=JbOd6giUiWU)
@@ -52,30 +60,30 @@
 - [20190625 Secure GitLab Pages with Let's Encrypt Certificate](https://blog.howar31.com/lets-encrypt-ssl-gitlab-pages)
 - [20200331 Create a multi-language marketing site with Vuepress and TailwindCSS](https://www.amalytix.com/en/blog/vuepress-tailwindcss-tailwindui/)
 
-### Official Examples
+### 官方实例
 
 - [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)
 
-### Examples
+### 实例
 
 - [davidangel.net](https://davidangel.net/) - An example of a site running VuePress on Netlify.
 - [vuepress-login](https://terryz.github.io/vuepress-login) - An example for add authorization with [v-dialogs](https://github.com/TerryZ/v-dialogs) on VuePress
 
-### Blog Posts
+### 博客文章
 
 - [Using VuePress for component library documentation](https://www.xiegerts.com/post/creating-vue-component-library-documentation/)
 
-## Gallery
+## 画廊
 
 - [Vuepress Tools](https://z3by.github.io/vuepress-tools) - By [@z3by](https://github.com/z3by)
 
-## Plugins
+## 插件
 
-### Official Plugins
+### 官方插件
 
-**Maintained by [vuejs/vuepress](https://github.com/vuejs/vuepress):**
+**以下由 [vuejs/vuepress](https://github.com/vuejs/vuepress)维护：**
 
-- [@vuepress/plugin-blog](https://vuepress-plugin-blog.ulivz.com/) - Blog plugin
+- [@vuepress/plugin-blog](https://vuepress-plugin-blog.ulivz.com/) - Blog Plugin
 - [@vuepress/plugin-active-header-links](https://v1.vuepress.vuejs.org/plugin/official/plugin-active-header-links.html) - A plugin of automatically activating sidebar links when page scrolls
 - [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top) - A plugin for "back to top" button
 - [@vuepress/plugin-google-analytics](https://v1.vuepress.vuejs.org/plugin/official/plugin-google-analytics.html) - Google analytics plugin
@@ -87,7 +95,7 @@
 - [@vuepress/plugin-register-components](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-register-components) - A plugin for registering Vue components
 - [@vuepress/plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html) - Headers-based search plugin
 
-**Maintained by [vuepress/vuepress-community](https://github.com/vuepress/vuepress-community):**
+**以下由[vuepress/vuepress-community](https://github.com/vuepress/vuepress-community)维护：**
 
 - [vuepress-plugin-clean-urls](https://vuepress-community.netlify.app/plugins/clean-urls/) - :droplet: Use clean urls in VuePress
 - [vuepress-plugin-container](https://vuepress-community.netlify.app/plugins/container/) - :package: Use markdown containers in VuePress
@@ -106,7 +114,7 @@
 - [vuepress-plugin-typescript](https://vuepress-community.netlify.app/plugins/typescript/) - :palm_tree: Support TypeScript in VuePress
 - [vuepress-plugin-zooming](https://vuepress-community.netlify.app/plugins/zooming/) - :mag: Make images zoomable in VuePress
 
-### Community Plugins
+### 社区插件
 
 - [vuepress-plugin-graysite](https://github.com/zpfz/vuepress-plugin-graysite) - Plug-ins that gray your site for VuePress.(Generally used for Mourning Day)
 - [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus) - Register a global Disqus component to add to your layouts
@@ -176,14 +184,14 @@
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 
-## Themes
+## 主题
 
-### Official Themes
+### 官方主题
 
 - [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
 - [@vuepress/theme-blog](https://vuepress-theme-blog.ulivz.com/)
 
-### Community Themes
+### 社区主题
 
 - [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
@@ -227,9 +235,9 @@
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 - [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
 
-## Projects Using VuePress
+## 使用VuePress项目
 
-### Official Projects
+### 官方项目
 
 - [vue-cli](https://cli.vuejs.org/)
 - [vuex](https://vuex.vuejs.org/)
@@ -241,9 +249,9 @@
 - [rollup-plugin-vue](https://rollup-plugin-vue.vuejs.org/)
 - [events](https://github.com/vuejs/events)
 
-### Blogging
+### 写博客
 
-> Blog websites that use VuePress.
+> 以下是使用VuePress的网站：
 
 - [ULIVZ](https://ulivz.com/)
 - [thuycom.studio (VuePress × Netlify)](https://thuycom.studio)
@@ -263,7 +271,7 @@
 - [Reflections (VuePress with Github Pages)](https://christofer.rocks)
 - [1980's Maker](https://80shuo.com)
 
-### Open Source
+### 开源
 
 > Documentation websites that use VuePress.
 
@@ -361,15 +369,15 @@
 - [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 - [line-bot-sdk-nodejs](https://line.github.io/line-bot-sdk-nodejs) - LINE Messaging API SDK for nodejs
 
-### Enterprise Usage
+### 企业用途
 
-- Alibaba
-- Ant Financial
-- Tencent
+- 阿里巴巴
+- 蚂蚁集团（原蚂蚁金融）
+- 腾讯
 - BriteCore
 
-## License
+## 许可证
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [ULIVZ](https://github.com/ulivz) has waived all copyright and related or neighboring rights to this work.
+根据法律，[ULIVZ]（https://github.com/ulivz）已放弃对这项工作的所有版权和相关或邻近权利。
