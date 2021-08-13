@@ -22,19 +22,19 @@
   - [社区插件](#社区插件)
 - [主题](#主题)
   - [官方主题](#官方主题)
-  - [Community Themes](#community-themes)
-- [Projects Using VuePress](#projects-using-vuepress)
-  - [Official Projects](#official-projects)
-  - [Blogging](#blogging)
-  - [Open Source](#open-source)
-  - [Enterprise Usage](#enterprise-usage)
-- [License](#license)
+  - [社区主题](#社区主题)
+- [使用VuePress项目](#使用VuePress项目)
+  - [官方项目](#官方项目)
+  - [博客](#博客)
+  - [开放源代码](#开放源代码)
+  - [企业使用](#企业使用)
+- [许可证](#许可证)
 
-## Resources
+## 资源
 
-### Official Resources
+### 官方资源
 
-- [Docs - Official Guide](https://vuepress.vuejs.org/guide/)
+- [文档——官方指南](https://vuepress.vuejs.org/zh/guide/)
 - [Docs - Config Reference](https://vuepress.vuejs.org/config/)
 - [Docs - GitHub Repo](https://github.com/vuejs/vuepress)
 - [Docs - Release Notes](https://github.com/vuejs/vuepress/blob/master/CHANGELOG.md)
