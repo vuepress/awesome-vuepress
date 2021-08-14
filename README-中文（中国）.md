@@ -378,4 +378,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-根据法律，[ULIVZ]（https://github.com/ulivz）已放弃对这项工作的所有版权和相关或邻近权利。
+根据法律，[ULIVZ](https://github.com/ulivz)已放弃对这项工作的所有版权和相关或邻近权利。
