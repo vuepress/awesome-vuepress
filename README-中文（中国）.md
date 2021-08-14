@@ -10,8 +10,6 @@
 # Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to VuePress
->
-> 
 
 > ## 注意
 >
@@ -273,7 +271,7 @@
 
 ### 开源
 
-> Documentation websites that use VuePress.
+> 以下是文档使用VuePress的网站：
 
 - [CodeceptJS](https://codecept.io/) - CodeceptJS ‐ supercharged End 2 End Testing
 - [discordjs.guide](https://discordjs.guide/) - The official guide for discord.js, created and maintained by core members of its community.

@@ -1,6 +1,6 @@
 # 贡献指南
 
 1. 确保你将这些东西放进正确的分类！
-2. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
-3. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
+2. 请始终将您的项目添加到列表的末尾。 为了公平起见，顺序以先到先得排列。
+3. 如果您认为某些内容属于错误的类别，或者认为需要一个新的类别，也可以随意编辑。
 
