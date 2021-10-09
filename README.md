@@ -226,6 +226,7 @@
 - [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 - [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
+- [vuepress-theme-mini](https://github.com/wxsms/vuepress-theme-mini) - 🎨 A minimal blogging theme of VuePress. [Preview](https://vuepress-theme-mini.wxsm.space/)
 
 ## Projects Using VuePress
 
