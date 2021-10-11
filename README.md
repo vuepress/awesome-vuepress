@@ -176,6 +176,7 @@
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+- [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
 
 ## Themes
 
