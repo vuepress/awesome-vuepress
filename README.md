@@ -228,6 +228,7 @@
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 - [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
 - [vuepress-theme-mini](https://github.com/wxsms/vuepress-theme-mini) - 🎨 A minimal blogging theme of VuePress. [Preview](https://vuepress-theme-mini.wxsm.space/)
+- [vuepress-theme-aurora](https://github.com/qsyyke/vuepress-theme-aurora) - 🔥🎨 Simple, beautiful,  providing automatic generation of article sidebar catalogs, article poster sharing, conversation, photo albums, comments, etc. [Preview](https://aurora.cco.vin/)
 
 ## Projects Using VuePress
 
@@ -264,6 +265,7 @@
 - [dt.in.th (VuePress × Netlify)](https://dt.in.th) - [Open Sourced](https://github.com/dtinth/dt.in.th)
 - [Reflections (VuePress with Github Pages)](https://christofer.rocks)
 - [1980's Maker](https://80shuo.com)
+- [qsyyke' blog](https://blog.cco.vin/)
 
 ### Open Source
 
