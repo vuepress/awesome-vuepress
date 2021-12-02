@@ -176,6 +176,7 @@
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+- [vuepress-plugin-archive](https://www.npmjs.com/package/vuepress-plugin-archive) - A Vuepress plugin that add article archiving and timeline functions to the site, for vuepress v2.x
 
 ## Themes
 
