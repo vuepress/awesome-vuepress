@@ -20,6 +20,7 @@
 - [Plugins](#plugins)
   - [Official Plugins](#official-plugins)
   - [Community Plugins](#community-plugins)
+- [Utilities](#utilities)
 - [Themes](#themes)
   - [Official Themes](#official-themes)
   - [Community Themes](#community-themes)
@@ -179,6 +180,10 @@
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+
+## Utilities
+
+- [vuepress-bar](https://github.com/ozum/vuepress-bar) - VuePress sidebar and navbar generator based on file and directory structure.
 
 ## Themes
 
