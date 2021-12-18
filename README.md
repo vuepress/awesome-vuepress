@@ -380,6 +380,7 @@
 - [vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) - Documentation for vue-grid-layout, a grid layout system for Vue.js
 - [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 - [line-bot-sdk-nodejs](https://line.github.io/line-bot-sdk-nodejs) - LINE Messaging API SDK for nodejs
+- [Two.js](https://two.js.org/) - A renderer agnostic two-dimensional drawing api for the web.
 - [Typesense](https://typesense.org/docs/) - An open source search alternative to Algolia.
 - [Bricks](https://bricks.stefanobartoletti.it) - A modular WordPress starter theme powered by Bootstrap and Gulp ([Open Source](https://github.com/stefanobartoletti/bricks-docs))
 - [Pinguino Project](https://pinguino.cc) - An Open Hardware / Open Source electronics prototyping platform, as Arduino but for Microchip PIC.
