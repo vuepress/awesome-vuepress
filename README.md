@@ -178,6 +178,9 @@
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
+- [vuepress-plugin-roughviz](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/roughviz) - A plugin for adding [roughViz.js](https://github.com/jwilber/roughViz) to VuePress.
+- [vuepress-plugin-chart](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart) - A plugin for adding [Chart.js](https://www.chartjs.org/) to VuePress.
+- [vuepress-plugin-markmap](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap) - A plugin for adding [markmap](https://github.com/gera2ld/markmap) to VuePress.
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
 
@@ -235,6 +238,7 @@
 - [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 - [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
+- [vuepress-theme-gungnir](https://github.com/Renovamen/vuepress-theme-gungnir) - A blog theme for VuePress. [[Docs]](https://vuepress-theme-gungnir.vercel.app/docs/) [[Demo]](https://vuepress-theme-gungnir.vercel.app/) [[Another Demo]](https://renovamen.ink/)
 - [vuepress-theme-mini](https://github.com/wxsms/vuepress-theme-mini) - 🎨 A minimal blogging theme of VuePress. [Preview](https://vuepress-theme-mini.wxsm.space/)
 
 ## Projects Using VuePress
