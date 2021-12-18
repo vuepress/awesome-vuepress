@@ -20,6 +20,7 @@
 - [Plugins](#plugins)
   - [Official Plugins](#official-plugins)
   - [Community Plugins](#community-plugins)
+- [Utilities](#utilities)
 - [Themes](#themes)
   - [Official Themes](#official-themes)
   - [Community Themes](#community-themes)
@@ -68,6 +69,7 @@
 ## Gallery
 
 - [Vuepress Tools](https://z3by.github.io/vuepress-tools) - By [@z3by](https://github.com/z3by)
+- [Vuepress Gallery](https://80shuo.com/vuepress-theme/) - By [@80maker](https://github.com/80maker)
 
 ## Plugins
 
@@ -160,6 +162,7 @@
 - [@kawarimidoll/vuepress-plugin-tailwind](https://github.com/kawarimidoll/vuepress-plugin-tailwind) - A VuePress plugin to use [`tailwindcss`](https://github.com/tailwindcss/tailwindcss) and [`postcss-purgecss`](https://github.com/FullHuman/purgecss) easily
 - [spekulatius/vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress site. Works both on page-by-page levels as well as global.
 - [vuepress-plugin-lastest-version](https://github.com/yangyang0507/vuepress-plugin-lastest-version) - Get lastest version of artifact for your vuepress doc.
+- [vuepress-commander](https://github.com/kdydesign/vuepress-commander) - vuepress-commander makes it easier to create and deploy posts in the vuepress using cli.
 - [spekulatius/vuepress-plugin-umami](https://github.com/spekulatius/vuepress-plugin-umami) - allows to use privacy-friendly [Umami Analytics](https://github.com/mikecao/umami) instead of e.g. Google Analytics.
 - [vuepress-plugin-vue-demo](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vue-demo) - Write vue demo in markdown like elementui documents
 - [vuepress-plugin-vuese-docs](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vuese-docs) - Automatic generation of component documentation via code comments and demo examples
@@ -169,13 +172,25 @@
 - [vuepress-plugin-mygitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk) - 😇 VuePress集成Gitalk. | Gitalk plugin for VuePress.
 - [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - ☝️ VuePress回到页首插件Plus. | back-to-top plus plugin for VuePress.
 - [@xiaopanda/vuepress-plugin-code-copy](https://github.com/panxingcheng/vuepress-plugin-code-copy) - A VuePress plugin that copies code blocks with one click.
+- [vuepress-plugin-boxx](https://github.com/zpj80231/vuepress-plugin-boxx) - 📕 Automatically add celebrity quotes to blog posts, with customizable styles and content. - 引入名人名言并支持自定义 [`Demo`](https://zpj80231.gitee.io/znote/views/frontend/vuepress-plugin-boxx.html)
 - [vuepress-plugin-last-reading](https://github.com/tolking/vuepress-plugin-last-reading) - A vuepress plugin to record the last reading.
 - [vuepress-plugin-qrcode](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
 - [vuepress-plugin-child-toc](https://github.com/tchiotludo/vuepress-plugin-child-toc) - A table of contents that displayed all child pages.
 - [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags) - tags plugin: Use the tags in the "front matter" provided by the built-in search to generate a tag list under the main title
+- [vuepress-plugin-auto-crosslinker](https://github.com/tg44/vuepress-plugin-auto-crosslinker) - Automatically cross-links pages at first text appearance, wiki style
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
+- [vuepress-plugin-roughviz](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/roughviz) - A plugin for adding [roughViz.js](https://github.com/jwilber/roughViz) to VuePress.
+- [vuepress-plugin-chart](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart) - A plugin for adding [Chart.js](https://www.chartjs.org/) to VuePress.
+- [vuepress-plugin-markmap](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap) - A plugin for adding [markmap](https://github.com/gera2ld/markmap) to VuePress.
+- [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+- [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
+- [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
+
+## Utilities
+
+- [vuepress-bar](https://github.com/ozum/vuepress-bar) - VuePress sidebar and navbar generator based on file and directory structure.
 
 ## Themes
 
@@ -227,7 +242,9 @@
 - [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
 - [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 - [vuepress-theme-maker](https://github.com/80maker/vuepress-theme-maker) - 🐉 A flat and clean Blog Theme for VuePress site. [Preview](https://80shuo.com/)
+- [vuepress-theme-gungnir](https://github.com/Renovamen/vuepress-theme-gungnir) - A blog theme for VuePress. [[Docs]](https://vuepress-theme-gungnir.vercel.app/docs/) [[Demo]](https://vuepress-theme-gungnir.vercel.app/) [[Another Demo]](https://renovamen.ink/)
 - [vuepress-theme-mini](https://github.com/wxsms/vuepress-theme-mini) - 🎨 A minimal blogging theme of VuePress. [Preview](https://vuepress-theme-mini.wxsm.space/)
+- [vuepress-theme-aurora](https://github.com/qsyyke/vuepress-theme-aurora) - 🔥🎨 Simple, beautiful,  providing automatic generation of article sidebar catalogs, article poster sharing, conversation, photo albums, comments, etc. [Preview](https://aurora.cco.vin/)
 
 ## Projects Using VuePress
 
@@ -264,6 +281,7 @@
 - [dt.in.th (VuePress × Netlify)](https://dt.in.th) - [Open Sourced](https://github.com/dtinth/dt.in.th)
 - [Reflections (VuePress with Github Pages)](https://christofer.rocks)
 - [1980's Maker](https://80shuo.com)
+- [qsyyke' blog](https://blog.cco.vin/)
 
 ### Open Source
 
@@ -363,6 +381,9 @@
 - [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 - [line-bot-sdk-nodejs](https://line.github.io/line-bot-sdk-nodejs) - LINE Messaging API SDK for nodejs
 - [Two.js](https://two.js.org/) - A renderer agnostic two-dimensional drawing api for the web.
+- [Typesense](https://typesense.org/docs/) - An open source search alternative to Algolia.
+- [Bricks](https://bricks.stefanobartoletti.it) - A modular WordPress starter theme powered by Bootstrap and Gulp ([Open Source](https://github.com/stefanobartoletti/bricks-docs))
+- [Pinguino Project](https://pinguino.cc) - An Open Hardware / Open Source electronics prototyping platform, as Arduino but for Microchip PIC.
 
 ### Enterprise Usage
 
