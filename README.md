@@ -176,6 +176,17 @@
 - [vuepress-plugin-facebook-pixel](https://github.com/vittominacori/vuepress-plugin-facebook-pixel) - A VuePress plugin to use Facebook Pixel
 - [vuepress-plugin-ackee](https://github.com/spekulatius/vuepress-plugin-ackee) - Adds the Ackuee tracking code to vuePress (privacy-friendly)
 - [vuepress-plugin-side-anchor](https://github.com/LRCong/vuepress-plugin-side-anchor) - Add side anchor to vuePress automatically.
+- [vuepress-plugin-roughviz](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/roughviz) - A plugin for adding [roughViz.js](https://github.com/jwilber/roughViz) to VuePress.
+- [vuepress-plugin-chart](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/chart) - A plugin for adding [Chart.js](https://www.chartjs.org/) to VuePress.
+- [vuepress-plugin-markmap](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap) - A plugin for adding [markmap](https://github.com/gera2ld/markmap) to VuePress.
+- [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
+- [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+- [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
+- [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
+
+## Utilities
+
+- [vuepress-bar](https://github.com/ozum/vuepress-bar) - VuePress sidebar and navbar generator based on file and directory structure.
 
 ## Themes
 
