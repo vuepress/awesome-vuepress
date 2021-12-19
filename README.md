@@ -182,7 +182,6 @@
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
 - [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
 - [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
-- [vuepress-plugin-side-anchor](https://github.com/LRCong/vuepress-plugin-side-anchor) - Add side anchor to vuePress automatically.
 
 ## Utilities
 
