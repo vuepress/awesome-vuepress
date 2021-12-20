@@ -185,6 +185,7 @@
 - [vuepress-plugin-markmap](https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/markmap) - A plugin for adding [markmap](https://github.com/gera2ld/markmap) to VuePress.
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 - [@snippetors/vuepress-plugin-tabs](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs) - A VuePress plugin which renders custom markdown containers as tabs, for vuepress v2.x
+- [vuepress-plugin-archive](https://www.npmjs.com/package/vuepress-plugin-archive) - A Vuepress plugin that add article archiving and timeline functions to the site, for vuepress v2.x
 - [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
 - [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
 
