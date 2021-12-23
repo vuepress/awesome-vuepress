@@ -188,6 +188,7 @@
 - [vuepress-plugin-archive](https://www.npmjs.com/package/vuepress-plugin-archive) - A Vuepress plugin that add article archiving and timeline functions to the site, for vuepress v2.x
 - [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
 - [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
+- [vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer) - 🎧 A awesome plugin for musicplayer to VuePress.
 
 ## Utilities
 
@@ -283,6 +284,7 @@
 - [Reflections (VuePress with Github Pages)](https://christofer.rocks)
 - [1980's Maker](https://80shuo.com)
 - [qsyyke' blog](https://blog.cco.vin/)
+- [DaoDaoLee' blog](https://daodaolee.cn/)
 
 ### Open Source
 
