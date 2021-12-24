@@ -189,6 +189,7 @@
 - [vuepress-plugin-demoblock-plus](https://github.com/xinlei3166/vuepress-plugin-demoblock-plus) - A Vuepress 2.x plugin that helps you add Vue examples when you document
 - [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
 - [vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer) - 🎧 A awesome plugin for musicplayer to VuePress.
+- [vuepress-plugin-demo-container](https://github.com/calebman/vuepress-plugin-demo-container) - A Vuepress plugin for demo block like elementui.
 
 ## Utilities
 
