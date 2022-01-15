@@ -206,6 +206,7 @@
 
 ### Community Themes
 
+- [vuepress-theme-vt](https://github.com/ulivz/vt) - 🖼️ An Elegant VuePress Theme, inspired by `@vue/theme`.
 - [vuepress-theme-antdocs](https://github.com/zpfz/vuepress-theme-antdocs) - 🔥🎨 An Ant Design style theme for VuePress.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress blog theme
 - [vuepress-theme-thindark](https://github.com/lisniuse/vuepress-theme-thindark) - A dark theme for VuePress.
