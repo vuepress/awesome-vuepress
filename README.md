@@ -190,6 +190,8 @@
 - [@snippetors/vuepress-plugin-code-copy](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy) - A VuePress plugin which provides a button to copy code block, for vuepress v2.x
 - [vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer) - 🎧 A awesome plugin for musicplayer to VuePress.
 - [vuepress-plugin-demo-container](https://github.com/calebman/vuepress-plugin-demo-container) - A Vuepress plugin for demo block like elementui.
+- [vuepress-plugin-use-pages](https://github.com/monsat/vuepress-plugin-use-pages) - A VuePress v2 plugin that helps you use array of all PagesData in your doc.
+- [vuepress-plugin-netabare-switch](https://github.com/monsat/vuepress-plugin-netabare-switch) - A VuePress v2 plugin to add toggle switch for spoilers.
 
 ## Utilities
 
