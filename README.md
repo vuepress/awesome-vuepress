@@ -193,7 +193,7 @@
 - [vuepress-plugin-use-pages](https://github.com/monsat/vuepress-plugin-use-pages) - A VuePress v2 plugin that helps you use array of all PagesData in your doc.
 - [vuepress-plugin-netabare-switch](https://github.com/monsat/vuepress-plugin-netabare-switch) - A VuePress v2 plugin to add toggle switch for spoilers.
 - [vuepress-plugin-clipboard](https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main/packages/clipboard) - A Vuepress v2 plugin to generate code copy button | code clipboard.
-- [vuepress-plugin-china-search-console](https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main/packages/china-search-console) - A Vuepress v2 plugin to enhance china seo | include baidu tongji (analytics), baidu auto push and 360 autopush.
+- [vuepress-plugin-china-search-console](https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main/packages/china-search-console) - A Vuepress v2 plugin to enhance china seo | include baidu tongji (analytics), baidu auto push, 360 autopush, tiaotiao(ByteDance) autopush.
 
 ## Utilities
 
