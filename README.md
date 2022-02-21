@@ -192,6 +192,7 @@
 - [vuepress-plugin-demo-container](https://github.com/calebman/vuepress-plugin-demo-container) - A Vuepress plugin for demo block like elementui.
 - [vuepress-plugin-use-pages](https://github.com/monsat/vuepress-plugin-use-pages) - A VuePress v2 plugin that helps you use array of all PagesData in your doc.
 - [vuepress-plugin-netabare-switch](https://github.com/monsat/vuepress-plugin-netabare-switch) - A VuePress v2 plugin to add toggle switch for spoilers.
+- [vuepress-plugin-mmedia](https://github.com/u2sb/vuepress-plugin-mmedia) - A Vuepress plugin insert media tags using Aplayer, MetingJs, Dplayer, Artplayer, xgplayer, 哔哩哔哩, 西瓜视频.
 
 ## Utilities
 
