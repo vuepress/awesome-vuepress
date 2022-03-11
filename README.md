@@ -391,6 +391,7 @@
 - [Typesense](https://typesense.org/docs/) - An open source search alternative to Algolia.
 - [Bricks](https://bricks.stefanobartoletti.it) - A modular WordPress starter theme powered by Bootstrap and Gulp ([Open Source](https://github.com/stefanobartoletti/bricks-docs))
 - [Pinguino Project](https://pinguino.cc) - An Open Hardware / Open Source electronics prototyping platform, as Arduino but for Microchip PIC.
+- [cz-git](https://cz-git.qbenben.com/) - A more engineered, highly customizable, standard output format commitizen adapter guide for vuepress v2.x
 
 ### Enterprise Usage
 
