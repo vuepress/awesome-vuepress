@@ -289,6 +289,7 @@
 - [1980's Maker](https://80shuo.com)
 - [qsyyke' blog](https://blog.cco.vin/)
 - [DaoDaoLee' blog](https://daodaolee.cn/)
+- [buxianshan's blog](https://bxs.ink/)
 
 ### Open Source
 
